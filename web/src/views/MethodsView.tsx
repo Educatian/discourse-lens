@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { Fragment, useState } from "react";
 import type { AppData, BertopicTopic } from "../lib/data";
 import { THREAD_COLORS } from "../lib/threads";
 
@@ -153,8 +153,8 @@ function ConstructValiditySection({ data }: { data: AppData }) {
               const isOpen = openTopicId === tid;
               const head = topic?.top_words.slice(0, 4).join(", ") ?? `Topic ${tid}`;
               return (
-                <>
-                  <tr key={tid} className={isOpen ? "open" : ""} onClick={() => setOpenTopicId(isOpen ? null : tid)}>
+                <Fragment key={tid}>
+                  <tr className={isOpen ? "open" : ""} onClick={() => setOpenTopicId(isOpen ? null : tid)}>
                     <td className="topic-head">
                       <span className="topic-id">#{tid}</span> {head}
                     </td>
@@ -192,7 +192,7 @@ function ConstructValiditySection({ data }: { data: AppData }) {
                       </td>
                     </tr>
                   )}
-                </>
+                </Fragment>
               );
             })}
           </tbody>
@@ -270,8 +270,8 @@ function SweepTable({ title, rows, keyName, extraName, extraLabel, jaccardField,
         </thead>
         <tbody>
           {fields.map((f) => (
-            <>
-              <tr key={`${f}-jac`}>
+            <Fragment key={f}>
+              <tr>
                 <td className="row-label">{f.toUpperCase()} Jaccard</td>
                 {rows[f].map((r: any, i: number) => {
                   const v = r[jaccardField];
@@ -284,13 +284,13 @@ function SweepTable({ title, rows, keyName, extraName, extraLabel, jaccardField,
                   );
                 })}
               </tr>
-              <tr key={`${f}-extra`}>
+              <tr>
                 <td className="row-label small">{f.toUpperCase()} {extraLabel}</td>
                 {rows[f].map((r: any, i: number) => (
                   <td key={i} className="num small muted">{r[extraName]}</td>
                 ))}
               </tr>
-            </>
+            </Fragment>
           ))}
         </tbody>
       </table>
