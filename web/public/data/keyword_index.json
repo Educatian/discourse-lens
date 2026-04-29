@@ -1,0 +1,8851 @@
+{
+  "3d printing": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "technology acceptance",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "makerspace design",
+          "weight": 0.4451,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "academic libraries": {
+    "ls": {
+      "freq": 39,
+      "neighbors": [
+        {
+          "id": "library services",
+          "weight": 0.5703,
+          "cooc": 4
+        },
+        {
+          "id": "value study",
+          "weight": 0.4367,
+          "cooc": 2
+        },
+        {
+          "id": "librarians africa",
+          "weight": 0.4367,
+          "cooc": 2
+        },
+        {
+          "id": "information literacy",
+          "weight": 0.2666,
+          "cooc": 4
+        },
+        {
+          "id": "mobile device",
+          "weight": 0.2447,
+          "cooc": 1
+        },
+        {
+          "id": "participatory research",
+          "weight": 0.2447,
+          "cooc": 1
+        },
+        {
+          "id": "use social",
+          "weight": 0.161,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.1412,
+          "cooc": 3
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.141,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "achieving students": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "behavioral engagement",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "feedback students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "predict student",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "test motivation",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.4149,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2778,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1926,
+          "cooc": 2
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "activism": {
+    "ls": {
+      "freq": 3,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "ai education": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "generative ai",
+          "weight": 0.701,
+          "cooc": 2
+        },
+        {
+          "id": "interdisciplinary",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "assessment task",
+          "weight": 0.4034,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1622,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "ai literacy": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "teacher genai",
+          "weight": 0.6968,
+          "cooc": 2
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.5403,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "ai teaching": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 22,
+      "neighbors": [
+        {
+          "id": "ai literacy",
+          "weight": 0.5403,
+          "cooc": 4
+        },
+        {
+          "id": "learner interactions",
+          "weight": 0.4392,
+          "cooc": 2
+        },
+        {
+          "id": "course development",
+          "weight": 0.3655,
+          "cooc": 1
+        },
+        {
+          "id": "competency self",
+          "weight": 0.3219,
+          "cooc": 1
+        },
+        {
+          "id": "tutoring",
+          "weight": 0.2605,
+          "cooc": 1
+        },
+        {
+          "id": "engineering taught",
+          "weight": 0.2605,
+          "cooc": 1
+        },
+        {
+          "id": "curricular",
+          "weight": 0.2371,
+          "cooc": 1
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.1555,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.1434,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "analytics": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "learning analytics",
+          "weight": 0.773,
+          "cooc": 3
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "argumentation skills": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "teachers scaffolding",
+          "weight": 0.4179,
+          "cooc": 1
+        },
+        {
+          "id": "interdisciplinary",
+          "weight": 0.3979,
+          "cooc": 1
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.3979,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.2106,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2053,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "assessment design": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 16,
+      "neighbors": [
+        {
+          "id": "formative assessment",
+          "weight": 0.6915,
+          "cooc": 4
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "skills research",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "chatgpt used",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.2854,
+          "cooc": 1
+        },
+        {
+          "id": "digital literacy",
+          "weight": 0.2854,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.2313,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.2313,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "assessment task": {
+    "ls": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "reflective assessment",
+          "weight": 0.5961,
+          "cooc": 2
+        },
+        {
+          "id": "ai education",
+          "weight": 0.4034,
+          "cooc": 1
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "knowledge building",
+          "weight": 0.3427,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "augmented reality": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "vr learning",
+          "weight": 0.2516,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "beginning teachers": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "challenges teachers",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "teacher involvement",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "teachers video",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2779,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "behavioral engagement": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "group engagement",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "bibliometric": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "information literacy",
+          "weight": 0.3876,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "blended learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "term blended",
+          "weight": 0.7455,
+          "cooc": 2
+        },
+        {
+          "id": "professional development",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "teacher professional",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "students experiences",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.2827,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "challenges teachers": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "beginning teachers",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.441,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "chatgpt used": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "mathematics education",
+          "weight": 0.5125,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.3363,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "child designed": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "museum design",
+          "weight": 0.6672,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "classroom discourse": {
+    "ls": {
+      "freq": 25,
+      "neighbors": [
+        {
+          "id": "dialogic education",
+          "weight": 0.5109,
+          "cooc": 2
+        },
+        {
+          "id": "study discussions",
+          "weight": 0.5109,
+          "cooc": 2
+        },
+        {
+          "id": "online instruction",
+          "weight": 0.4629,
+          "cooc": 2
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.4469,
+          "cooc": 4
+        },
+        {
+          "id": "learners behavior",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "teachers noticing",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "student thinking",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "behavioral engagement",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "online discussions",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "discourse student",
+          "weight": 0.3112,
+          "cooc": 1
+        },
+        {
+          "id": "facilitators making",
+          "weight": 0.3112,
+          "cooc": 1
+        },
+        {
+          "id": "teachers video",
+          "weight": 0.2778,
+          "cooc": 1
+        },
+        {
+          "id": "sensemaking coaching",
+          "weight": 0.2778,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.2778,
+          "cooc": 1
+        },
+        {
+          "id": "student reflective",
+          "weight": 0.2778,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "cognitive load": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "effect instructional",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "student thinking",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "prompts learners",
+          "weight": 0.4816,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "gamification",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "reading vr",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.3173,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1142,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "collaborative argumentation": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "gamification",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "collaborative design": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "designers involved",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "design team",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "collaborative inquiry": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "groups students",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "reflective assessment",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "teachers scaffolding",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.4306,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.3756,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2792,
+          "cooc": 3
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "collaborative learning": {
+    "ls": {
+      "freq": 61,
+      "neighbors": [
+        {
+          "id": "teacher involvement",
+          "weight": 0.314,
+          "cooc": 2
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.2768,
+          "cooc": 2
+        },
+        {
+          "id": "tangible",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "students creative",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "practices learning",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "motivation metacognition",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "learners behavior",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "learning interventions",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "propose multimodal",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "group engagement",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "behavioral engagement",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "social media",
+          "weight": 0.1984,
+          "cooc": 2
+        },
+        {
+          "id": "teachers video",
+          "weight": 0.1444,
+          "cooc": 1
+        },
+        {
+          "id": "groups students",
+          "weight": 0.1444,
+          "cooc": 1
+        },
+        {
+          "id": "learner motivation",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "design narrative",
+          "weight": 0.4137,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "communities practice": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "group engagement",
+          "weight": 0.6714,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "competencies online": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "online learning",
+          "weight": 0.4715,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "competency self": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "designers involved",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "elucidate competencies",
+          "weight": 0.5801,
+          "cooc": 1
+        },
+        {
+          "id": "digital competence",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.3903,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.3219,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "composite instructional": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "instruction engaged",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.3706,
+          "cooc": 3
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "comprehension skills": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "read texts",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "effect instructional",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "instruction engaged",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "engaging science",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.332,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2779,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "computational": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "computational thinking",
+          "weight": 0.7671,
+          "cooc": 5
+        },
+        {
+          "id": "teaching covid",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.3678,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.3565,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "computational thinking": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "development creative",
+          "weight": 0.701,
+          "cooc": 2
+        },
+        {
+          "id": "programming education",
+          "weight": 0.5853,
+          "cooc": 2
+        },
+        {
+          "id": "media literacy",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "engaging science",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2284,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 16,
+      "neighbors": [
+        {
+          "id": "students computational",
+          "weight": 0.7961,
+          "cooc": 6
+        },
+        {
+          "id": "computational",
+          "weight": 0.7671,
+          "cooc": 5
+        },
+        {
+          "id": "design mobile",
+          "weight": 0.4137,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.3758,
+          "cooc": 2
+        },
+        {
+          "id": "teaching covid",
+          "weight": 0.3701,
+          "cooc": 1
+        },
+        {
+          "id": "students research",
+          "weight": 0.3701,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "professional development",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.2037,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.1916,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.1804,
+          "cooc": 1
+        },
+        {
+          "id": "gamification",
+          "weight": 0.1699,
+          "cooc": 1
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.1264,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "conceptual knowledge": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "students conceptual",
+          "weight": 0.5446,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "course design": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "maker education",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "moocs design",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3979,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.3173,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1024,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "course development": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "curriculum design",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.3655,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2156,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "course redesign": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "students redesign",
+          "weight": 0.8628,
+          "cooc": 2
+        },
+        {
+          "id": "instructor presence",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "students feedback",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "crafts": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "maker education",
+          "weight": 0.5677,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "creativity": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "critical thinking": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "teach critical",
+          "weight": 1.0,
+          "cooc": 3
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.3373,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "culturally responsive": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learning cultural",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "curriculum design",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.4573,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "curricular": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "mentoring",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "stem learning",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "engineering taught",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.3289,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.2371,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "curriculum design": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "culturally responsive",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "preschool math",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "course development",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.3725,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.2909,
+          "cooc": 1
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.2135,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "cybersecurity education": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "game design",
+          "weight": 0.4451,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "dashboard": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "teacher dashboard",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.5389,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "data literacy": {
+    "ls": {
+      "freq": 24,
+      "neighbors": [
+        {
+          "id": "literacy skills",
+          "weight": 0.5286,
+          "cooc": 9
+        },
+        {
+          "id": "data science",
+          "weight": 0.4697,
+          "cooc": 2
+        },
+        {
+          "id": "use data",
+          "weight": 0.4324,
+          "cooc": 2
+        },
+        {
+          "id": "critical thinking",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "teach critical",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "open data",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "privacy literacy",
+          "weight": 0.3344,
+          "cooc": 2
+        },
+        {
+          "id": "participatory research",
+          "weight": 0.3173,
+          "cooc": 1
+        },
+        {
+          "id": "students epistemic",
+          "weight": 0.2136,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "digital competence",
+          "weight": 0.5125,
+          "cooc": 1
+        },
+        {
+          "id": "stem learning",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "digital literacy",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1493,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "data science": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "use data",
+          "weight": 0.7314,
+          "cooc": 2
+        },
+        {
+          "id": "participatory research",
+          "weight": 0.5853,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.4697,
+          "cooc": 2
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.289,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "design case": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "design knowledge",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "design knowledge": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "design case",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "using chatbot",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "design team",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "design make": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "instructional design",
+          "weight": 0.2792,
+          "cooc": 3
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "design mobile": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "mobile learning",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.4137,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "design narrative": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 12,
+      "neighbors": [
+        {
+          "id": "ethical",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "inquiry science",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.4137,
+          "cooc": 1
+        },
+        {
+          "id": "skills research",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "game design",
+          "weight": 0.2352,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.2239,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "design online": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "online learning",
+          "weight": 0.2841,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1847,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "design play": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "game design",
+          "weight": 0.8167,
+          "cooc": 2
+        },
+        {
+          "id": "game activity",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "learning embodied",
+          "weight": 0.5446,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "design research": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "design thinking",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1622,
+          "cooc": 2
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1171,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "design team": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "design knowledge",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative design",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "using chatbot",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "game design",
+          "weight": 0.2787,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.2675,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.2135,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1623,
+          "cooc": 6
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "design thinking": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "game design",
+          "weight": 0.7314,
+          "cooc": 2
+        },
+        {
+          "id": "design play",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "design research",
+          "weight": 0.4913,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "curriculum design",
+          "weight": 0.3725,
+          "cooc": 1
+        },
+        {
+          "id": "makerspace design",
+          "weight": 0.3168,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.2854,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1702,
+          "cooc": 5
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "designers involved": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "collaborative design",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "competency self",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "support teaching",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2156,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "develop digital": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "digital",
+          "weight": 0.8141,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "development creative": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "computational thinking",
+          "weight": 0.701,
+          "cooc": 2
+        },
+        {
+          "id": "information management",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "media literacy",
+          "weight": 0.5853,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "dialogic education": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "classroom discourse",
+          "weight": 0.5109,
+          "cooc": 2
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.464,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "digital": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "develop digital",
+          "weight": 0.8141,
+          "cooc": 2
+        },
+        {
+          "id": "digital literacy",
+          "weight": 0.4953,
+          "cooc": 1
+        },
+        {
+          "id": "literacy",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.3363,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "digital competence": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "teacher digital",
+          "weight": 0.7938,
+          "cooc": 5
+        },
+        {
+          "id": "digital literacy",
+          "weight": 0.633,
+          "cooc": 2
+        },
+        {
+          "id": "competency self",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "elucidate competencies",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.5125,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "digital literacy": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "literacy",
+          "weight": 0.7171,
+          "cooc": 4
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.6526,
+          "cooc": 4
+        },
+        {
+          "id": "digital competence",
+          "weight": 0.633,
+          "cooc": 2
+        },
+        {
+          "id": "digital",
+          "weight": 0.4953,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "teacher professional",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.2854,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "digital youth": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "innovations learning",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "knowledge building",
+          "weight": 0.507,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.332,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "discourse student": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "online discussions",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "teachers video",
+          "weight": 0.5519,
+          "cooc": 1
+        },
+        {
+          "id": "students disabilities",
+          "weight": 0.5519,
+          "cooc": 1
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.5016,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3112,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1024,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "discuss instructors": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "laboratory course",
+          "weight": 0.7763,
+          "cooc": 2
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "ebooks": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "open educational",
+          "weight": 0.4573,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "educational game": {
+    "ls": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "game design",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.4306,
+          "cooc": 1
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.4034,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 14,
+      "neighbors": [
+        {
+          "id": "game design",
+          "weight": 0.5339,
+          "cooc": 4
+        },
+        {
+          "id": "role play",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "laboratory course",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "computational",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "design team",
+          "weight": 0.2675,
+          "cooc": 1
+        },
+        {
+          "id": "design narrative",
+          "weight": 0.2239,
+          "cooc": 1
+        },
+        {
+          "id": "gamification",
+          "weight": 0.1901,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.1804,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "educational resources": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "open educational",
+          "weight": 0.7481,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "educational technologies": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "learning engineers",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "privacy literacy",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.3053,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2136,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.1853,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1142,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "educational technology": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 20,
+      "neighbors": [
+        {
+          "id": "learning projects",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "student efficacy",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "social justice",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "literacy",
+          "weight": 0.338,
+          "cooc": 2
+        },
+        {
+          "id": "digital",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "laboratory course",
+          "weight": 0.3025,
+          "cooc": 1
+        },
+        {
+          "id": "makerspace design",
+          "weight": 0.2936,
+          "cooc": 2
+        },
+        {
+          "id": "learning management",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "design team",
+          "weight": 0.2135,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.1699,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.1578,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "educational tool": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "teacher dashboard",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "educators": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "challenges teachers",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "educational technologies",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.3484,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2567,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1622,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "project students",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "maker education",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "effect instructional": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "comprehension skills",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "instruction engaged",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "prompts learners",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "cognitive load",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2779,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "effect students": {
+    "ls": {
+      "freq": 13,
+      "neighbors": [
+        {
+          "id": "empathy teacher",
+          "weight": 0.62,
+          "cooc": 2
+        },
+        {
+          "id": "propose multimodal",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "teacher support",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "facilitators making",
+          "weight": 0.409,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.3756,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.3484,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.3484,
+          "cooc": 1
+        },
+        {
+          "id": "educational technologies",
+          "weight": 0.3053,
+          "cooc": 1
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.272,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2662,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1082,
+          "cooc": 3
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "elucidate competencies": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "competency self",
+          "weight": 0.5801,
+          "cooc": 1
+        },
+        {
+          "id": "digital competence",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.3903,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "emotional learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "faculty perceive",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "pandemic",
+          "weight": 0.5801,
+          "cooc": 1
+        },
+        {
+          "id": "trauma informed",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "inclusive learning",
+          "weight": 0.4573,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "empathy teacher": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "effect students",
+          "weight": 0.62,
+          "cooc": 2
+        },
+        {
+          "id": "students disabilities",
+          "weight": 0.595,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "engagement learning": {
+    "ls": {
+      "freq": 10,
+      "neighbors": [
+        {
+          "id": "propose multimodal",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "behavioral engagement",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.4149,
+          "cooc": 1
+        },
+        {
+          "id": "students online",
+          "weight": 0.4149,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.4123,
+          "cooc": 3
+        },
+        {
+          "id": "educators",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.272,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.1742,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "engaging science": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "comprehension skills",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "test motivation",
+          "weight": 0.5016,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.4381,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1024,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "engineering taught": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "learners engage",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "curricular",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "inclusive learning",
+          "weight": 0.3958,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.2605,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "ethical": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "design narrative",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "game design",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "examine reflective": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "experience design": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learning experience",
+          "weight": 0.7763,
+          "cooc": 2
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2156,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "explanation prompts": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "prompts learners",
+          "weight": 0.8167,
+          "cooc": 2
+        },
+        {
+          "id": "self explanations",
+          "weight": 0.6714,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "exploring information": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "information use",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "information literacy",
+          "weight": 0.4629,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "facilitators making": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "learning interventions",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.409,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3112,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "faculty perceive": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "emotional learning",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "support teaching",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "inclusive learning",
+          "weight": 0.5008,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "feedback students": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "predict student",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "feedback study",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.5247,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "feedback study": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "feedback students",
+          "weight": 0.595,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "flipped classroom": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "learning analytics",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.3103,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1847,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "formative assessment": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "assessment design",
+          "weight": 0.6915,
+          "cooc": 4
+        },
+        {
+          "id": "skills oral",
+          "weight": 0.5899,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "game activity": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "design play",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "learning embodied",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics classrooms",
+          "weight": 0.452,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "game design": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "design play",
+          "weight": 0.8167,
+          "cooc": 2
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.7314,
+          "cooc": 2
+        },
+        {
+          "id": "educational game",
+          "weight": 0.464,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 13,
+      "neighbors": [
+        {
+          "id": "educational game",
+          "weight": 0.5339,
+          "cooc": 4
+        },
+        {
+          "id": "ethical",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "cybersecurity education",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "design team",
+          "weight": 0.2787,
+          "cooc": 1
+        },
+        {
+          "id": "design narrative",
+          "weight": 0.2352,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "gamification": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "student thinking",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "cognitive load",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.3876,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 15,
+      "neighbors": [
+        {
+          "id": "collaborative argumentation",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.1901,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.1699,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "generative ai": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "ai education",
+          "weight": 0.701,
+          "cooc": 2
+        },
+        {
+          "id": "knowledge building",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.2943,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "gestures": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "use embodied",
+          "weight": 0.8141,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "global learners": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learning management",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "group engagement": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "behavioral engagement",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "communities practice",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "groups students": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "teacher support",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "practices learning",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "motivation metacognition",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2792,
+          "cooc": 3
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "immersive learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "immersive virtual",
+          "weight": 0.6236,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "immersive virtual": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "immersive learning",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.5417,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "implementing learner": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learning management",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.3877,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "inclusive learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "faculty perceive",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "social justice",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "emotional learning",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "engineering taught",
+          "weight": 0.3958,
+          "cooc": 1
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.2909,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.2675,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1199,
+          "cooc": 5
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "informal learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 12,
+      "neighbors": [
+        {
+          "id": "online social",
+          "weight": 0.6282,
+          "cooc": 2
+        },
+        {
+          "id": "term blended",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "designers involved",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "support teaching",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "inclusive learning",
+          "weight": 0.2909,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "makerspace design",
+          "weight": 0.2352,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.1555,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.136,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "information literacy": {
+    "ls": {
+      "freq": 20,
+      "neighbors": [
+        {
+          "id": "literacy skills",
+          "weight": 0.5692,
+          "cooc": 9
+        },
+        {
+          "id": "information management",
+          "weight": 0.5481,
+          "cooc": 2
+        },
+        {
+          "id": "exploring information",
+          "weight": 0.4629,
+          "cooc": 2
+        },
+        {
+          "id": "information use",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "practices learning",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "bibliometric",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "academic libraries",
+          "weight": 0.2666,
+          "cooc": 4
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "information management": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "development creative",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "information literacy",
+          "weight": 0.5481,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "information use": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "practices learning",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "exploring information",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "information literacy",
+          "weight": 0.3876,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "innovations learning": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "digital youth",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "knowledge building",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1024,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "inquiry science": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "science curriculum",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "design narrative",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "instruction engaged": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "comprehension skills",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "effect instructional",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "composite instructional",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2779,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "instructional design": {
+    "ls": {
+      "freq": 101,
+      "neighbors": [
+        {
+          "id": "composite instructional",
+          "weight": 0.3706,
+          "cooc": 3
+        },
+        {
+          "id": "teacher involvement",
+          "weight": 0.3191,
+          "cooc": 3
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.2851,
+          "cooc": 4
+        },
+        {
+          "id": "groups students",
+          "weight": 0.2792,
+          "cooc": 3
+        },
+        {
+          "id": "design make",
+          "weight": 0.2792,
+          "cooc": 3
+        },
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.2792,
+          "cooc": 3
+        },
+        {
+          "id": "professional development",
+          "weight": 0.2779,
+          "cooc": 2
+        },
+        {
+          "id": "teachers noticing",
+          "weight": 0.2779,
+          "cooc": 2
+        },
+        {
+          "id": "beginning teachers",
+          "weight": 0.2779,
+          "cooc": 2
+        },
+        {
+          "id": "comprehension skills",
+          "weight": 0.2779,
+          "cooc": 2
+        },
+        {
+          "id": "effect instructional",
+          "weight": 0.2779,
+          "cooc": 2
+        },
+        {
+          "id": "instruction engaged",
+          "weight": 0.2779,
+          "cooc": 2
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.2355,
+          "cooc": 5
+        },
+        {
+          "id": "online instruction",
+          "weight": 0.2299,
+          "cooc": 2
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.1926,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 225,
+      "neighbors": [
+        {
+          "id": "students redesign",
+          "weight": 0.2156,
+          "cooc": 3
+        },
+        {
+          "id": "experience design",
+          "weight": 0.2156,
+          "cooc": 3
+        },
+        {
+          "id": "designers involved",
+          "weight": 0.2156,
+          "cooc": 3
+        },
+        {
+          "id": "course development",
+          "weight": 0.2156,
+          "cooc": 3
+        },
+        {
+          "id": "learning experience",
+          "weight": 0.1847,
+          "cooc": 4
+        },
+        {
+          "id": "professional development",
+          "weight": 0.1847,
+          "cooc": 4
+        },
+        {
+          "id": "flipped classroom",
+          "weight": 0.1847,
+          "cooc": 4
+        },
+        {
+          "id": "design online",
+          "weight": 0.1847,
+          "cooc": 4
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.1702,
+          "cooc": 5
+        },
+        {
+          "id": "students research",
+          "weight": 0.1633,
+          "cooc": 3
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.1633,
+          "cooc": 3
+        },
+        {
+          "id": "design team",
+          "weight": 0.1623,
+          "cooc": 6
+        },
+        {
+          "id": "learning management",
+          "weight": 0.1497,
+          "cooc": 4
+        },
+        {
+          "id": "course redesign",
+          "weight": 0.1322,
+          "cooc": 2
+        },
+        {
+          "id": "educators",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "instructor presence": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "teaching presence",
+          "weight": 0.8141,
+          "cooc": 2
+        },
+        {
+          "id": "course redesign",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "students feedback",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.3441,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1831,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "interdisciplinary": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "ai education",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "argumentation skills",
+          "weight": 0.3979,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.1853,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "interprofessional education": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "multimedia learning",
+          "weight": 0.3877,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "knowledge building": {
+    "ls": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "digital youth",
+          "weight": 0.507,
+          "cooc": 1
+        },
+        {
+          "id": "generative ai",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "innovations learning",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "reflective assessment",
+          "weight": 0.4306,
+          "cooc": 1
+        },
+        {
+          "id": "assessment task",
+          "weight": 0.3427,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.196,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.1677,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "laboratory course": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "discuss instructors",
+          "weight": 0.7763,
+          "cooc": 2
+        },
+        {
+          "id": "educational game",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.3025,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "language skills": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "role play",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "skills oral",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learner experiences": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learner interactions": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "tutoring",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.4392,
+          "cooc": 2
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1493,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learner motivation": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "test motivation",
+          "weight": 0.6381,
+          "cooc": 2
+        },
+        {
+          "id": "motivation metacognition",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "programming education",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learners behavior": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learning interventions",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "moocs design",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learners cognitive": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "multimedia learning",
+          "weight": 0.3441,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1831,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learners engage": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "learners behavior",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "learning interventions",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3646,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2839,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2768,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1926,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "experience design",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "engineering taught",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.3219,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1633,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning activities": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "moocs design",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "learning embodied",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learning analytics": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "analytics",
+          "weight": 0.773,
+          "cooc": 3
+        },
+        {
+          "id": "feedback students",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "predict student",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "social media",
+          "weight": 0.378,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.2943,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2075,
+          "cooc": 1
+        },
+        {
+          "id": "academic libraries",
+          "weight": 0.141,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "dashboard",
+          "weight": 0.5389,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.5157,
+          "cooc": 2
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "flipped classroom",
+          "weight": 0.4615,
+          "cooc": 1
+        },
+        {
+          "id": "learning management",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1202,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning cultural": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "culturally responsive",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.3706,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning embodied": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "learning activities",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "design play",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "game activity",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.441,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learning engineers": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "stem education",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "educational technologies",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.332,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learning environments": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "learning research",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "learning embodied",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.4034,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2567,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1622,
+          "cooc": 2
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1171,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learning experience": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "experience design",
+          "weight": 0.7763,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1847,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning interventions": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learners behavior",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "facilitators making",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learning management": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "implementing learner",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "global learners",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.5417,
+          "cooc": 2
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1497,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning outcomes": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "self explanations",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "test motivation",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "metacognitive",
+          "weight": 0.464,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "metacognition",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning projects": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "project students",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "learning research": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "learning sciences",
+          "weight": 0.5497,
+          "cooc": 4
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2506,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1622,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "learning sciences": {
+    "ls": {
+      "freq": 29,
+      "neighbors": [
+        {
+          "id": "learning research",
+          "weight": 0.5497,
+          "cooc": 4
+        },
+        {
+          "id": "engaging science",
+          "weight": 0.4381,
+          "cooc": 2
+        },
+        {
+          "id": "learning engineers",
+          "weight": 0.332,
+          "cooc": 1
+        },
+        {
+          "id": "digital youth",
+          "weight": 0.332,
+          "cooc": 1
+        },
+        {
+          "id": "comprehension skills",
+          "weight": 0.332,
+          "cooc": 1
+        },
+        {
+          "id": "data science",
+          "weight": 0.289,
+          "cooc": 1
+        },
+        {
+          "id": "students disabilities",
+          "weight": 0.2556,
+          "cooc": 1
+        },
+        {
+          "id": "use data",
+          "weight": 0.2556,
+          "cooc": 1
+        },
+        {
+          "id": "sensemaking coaching",
+          "weight": 0.2556,
+          "cooc": 1
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "ai education",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.2284,
+          "cooc": 1
+        },
+        {
+          "id": "argumentation skills",
+          "weight": 0.2053,
+          "cooc": 1
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.1853,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "librarians africa": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "use social",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "academic libraries",
+          "weight": 0.4367,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "library services": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "academic libraries",
+          "weight": 0.5703,
+          "cooc": 4
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "literacy": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 10,
+      "neighbors": [
+        {
+          "id": "digital literacy",
+          "weight": 0.7171,
+          "cooc": 4
+        },
+        {
+          "id": "digital",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.3984,
+          "cooc": 2
+        },
+        {
+          "id": "teacher professional",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.338,
+          "cooc": 2
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.2749,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "literacy skills": {
+    "ls": {
+      "freq": 28,
+      "neighbors": [
+        {
+          "id": "information literacy",
+          "weight": 0.5692,
+          "cooc": 9
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.5286,
+          "cooc": 9
+        },
+        {
+          "id": "media literacy",
+          "weight": 0.444,
+          "cooc": 2
+        },
+        {
+          "id": "critical thinking",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "teach critical",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "open data",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "generative ai",
+          "weight": 0.2943,
+          "cooc": 1
+        },
+        {
+          "id": "participatory research",
+          "weight": 0.2943,
+          "cooc": 1
+        },
+        {
+          "id": "argumentation skills",
+          "weight": 0.2106,
+          "cooc": 1
+        },
+        {
+          "id": "youth learning",
+          "weight": 0.173,
+          "cooc": 1
+        },
+        {
+          "id": "academic libraries",
+          "weight": 0.1412,
+          "cooc": 3
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "maker education": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "crafts",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "course design",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "moocs design",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "use social",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "online makerspace",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1622,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "educators",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "makerspace design",
+          "weight": 0.4016,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "makerspace design": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 13,
+      "neighbors": [
+        {
+          "id": "3d printing",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "maker education",
+          "weight": 0.4016,
+          "cooc": 1
+        },
+        {
+          "id": "design thinking",
+          "weight": 0.3168,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.2936,
+          "cooc": 2
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.2352,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "mathematics classrooms": {
+    "ls": {
+      "freq": 13,
+      "neighbors": [
+        {
+          "id": "student thinking",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "game activity",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "practices learning",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.3253,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.1349,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1082,
+          "cooc": 3
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "mathematics education": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "design mobile",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "teachers experienced",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "educational tool",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "teacher dashboard",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "chatgpt used",
+          "weight": 0.5125,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1228,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "media literacy": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "development creative",
+          "weight": 0.5853,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "youth learning",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.444,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "mentoring": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "trauma",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "trauma informed",
+          "weight": 0.5125,
+          "cooc": 1
+        },
+        {
+          "id": "curricular",
+          "weight": 0.4615,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "metacognition": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "learning outcomes",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.4075,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "metacognitive": {
+    "ls": {
+      "freq": 12,
+      "neighbors": [
+        {
+          "id": "learning outcomes",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "students creative",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1307,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "mobile device": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "academic libraries",
+          "weight": 0.2447,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "mobile learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "technology acceptance",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "design mobile",
+          "weight": 0.6236,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "moocs design": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "learners behavior",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "learning activities",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "course design",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "maker education",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2506,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "motivation metacognition": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "groups students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "learner motivation",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "test motivation",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "multimedia learning": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "teachers misconceptions",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "teachers noticing",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "cognitive load",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1926,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 19,
+      "neighbors": [
+        {
+          "id": "interprofessional education",
+          "weight": 0.3877,
+          "cooc": 1
+        },
+        {
+          "id": "implementing learner",
+          "weight": 0.3877,
+          "cooc": 1
+        },
+        {
+          "id": "museum design",
+          "weight": 0.3877,
+          "cooc": 1
+        },
+        {
+          "id": "instructor presence",
+          "weight": 0.3441,
+          "cooc": 1
+        },
+        {
+          "id": "learners cognitive",
+          "weight": 0.3441,
+          "cooc": 1
+        },
+        {
+          "id": "flipped classroom",
+          "weight": 0.3103,
+          "cooc": 1
+        },
+        {
+          "id": "blended learning",
+          "weight": 0.2827,
+          "cooc": 1
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.1003,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "museum design": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "child designed",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.3877,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "oer research": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "open educational",
+          "weight": 0.7481,
+          "cooc": 3
+        },
+        {
+          "id": "oer student",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.4339,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "oer student": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "open educational",
+          "weight": 0.7481,
+          "cooc": 3
+        },
+        {
+          "id": "student efficacy",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "oer research",
+          "weight": 0.6672,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "online discussions": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "study discussions",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "discourse student",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3542,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "online instruction": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "online learning",
+          "weight": 0.6619,
+          "cooc": 4
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.4629,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2299,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "student engagement",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.4715,
+          "cooc": 3
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "online learning": {
+    "ls": {
+      "freq": 24,
+      "neighbors": [
+        {
+          "id": "online instruction",
+          "weight": 0.6619,
+          "cooc": 4
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.5038,
+          "cooc": 3
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.4123,
+          "cooc": 3
+        },
+        {
+          "id": "course design",
+          "weight": 0.3173,
+          "cooc": 1
+        },
+        {
+          "id": "students online",
+          "weight": 0.2839,
+          "cooc": 1
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.2839,
+          "cooc": 1
+        },
+        {
+          "id": "students disabilities",
+          "weight": 0.2839,
+          "cooc": 1
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.2567,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.2567,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.2567,
+          "cooc": 1
+        },
+        {
+          "id": "educational technologies",
+          "weight": 0.2136,
+          "cooc": 1
+        },
+        {
+          "id": "knowledge building",
+          "weight": 0.196,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.1639,
+          "cooc": 2
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1399,
+          "cooc": 6
+        },
+        {
+          "id": "students social",
+          "weight": 0.1299,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 55,
+      "neighbors": [
+        {
+          "id": "competencies online",
+          "weight": 0.4715,
+          "cooc": 3
+        },
+        {
+          "id": "online instruction",
+          "weight": 0.4715,
+          "cooc": 3
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.4198,
+          "cooc": 4
+        },
+        {
+          "id": "learning cultural",
+          "weight": 0.3706,
+          "cooc": 2
+        },
+        {
+          "id": "online orientation",
+          "weight": 0.3706,
+          "cooc": 2
+        },
+        {
+          "id": "teaching covid",
+          "weight": 0.3219,
+          "cooc": 2
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.3219,
+          "cooc": 2
+        },
+        {
+          "id": "design online",
+          "weight": 0.2841,
+          "cooc": 2
+        },
+        {
+          "id": "support teaching",
+          "weight": 0.2841,
+          "cooc": 2
+        },
+        {
+          "id": "students experiences",
+          "weight": 0.2533,
+          "cooc": 2
+        },
+        {
+          "id": "language skills",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "global learners",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "course redesign",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "students redesign",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "teachers experienced",
+          "weight": 0.2267,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "online makerspace": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "propose multimodal",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "maker education",
+          "weight": 0.441,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "online orientation": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "online learning",
+          "weight": 0.3706,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "online social": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "informal learning",
+          "weight": 0.6282,
+          "cooc": 2
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "open data": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "data literacy",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.3373,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "open educational": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 12,
+      "neighbors": [
+        {
+          "id": "oer student",
+          "weight": 0.7481,
+          "cooc": 3
+        },
+        {
+          "id": "oer research",
+          "weight": 0.7481,
+          "cooc": 3
+        },
+        {
+          "id": "educational resources",
+          "weight": 0.7481,
+          "cooc": 3
+        },
+        {
+          "id": "student efficacy",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "ebooks",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.2239,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "pandemic": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "emotional learning",
+          "weight": 0.5801,
+          "cooc": 1
+        },
+        {
+          "id": "trauma informed",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "students experiences",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1831,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "participatory research": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "data science",
+          "weight": 0.5853,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.3173,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.2943,
+          "cooc": 1
+        },
+        {
+          "id": "academic libraries",
+          "weight": 0.2447,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "practices learning": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "information use",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "groups students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics classrooms",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "information literacy",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "predict student": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "feedback students",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.5247,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "preschool math": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "curriculum design",
+          "weight": 0.5008,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "privacy literacy": {
+    "ls": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "educational technologies",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.3344,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "professional development": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "instructional design",
+          "weight": 0.2779,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "teacher professional",
+          "weight": 0.659,
+          "cooc": 2
+        },
+        {
+          "id": "professional learning",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "blended learning",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "students computational",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.3363,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1847,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "professional learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "teachers experienced",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "professional development",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "teacher professional",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "programming": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 10,
+      "neighbors": [
+        {
+          "id": "teaching covid",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "students research",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "computational",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "skills research",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "students computational",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.3758,
+          "cooc": 2
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.2313,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "programming education": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "computational thinking",
+          "weight": 0.5853,
+          "cooc": 2
+        },
+        {
+          "id": "learner motivation",
+          "weight": 0.4483,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "project students": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "educators",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "learning projects",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "prompts learners": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "explanation prompts",
+          "weight": 0.8167,
+          "cooc": 2
+        },
+        {
+          "id": "effect instructional",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "self explanations",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "cognitive load",
+          "weight": 0.4816,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1024,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "propose multimodal": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "online makerspace",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "read texts": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "comprehension skills",
+          "weight": 0.6714,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "reading vr": {
+    "ls": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "cognitive load",
+          "weight": 0.3603,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "reasoning tasks": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "self explanations",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "critical thinking",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "teach critical",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "feedback students",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "argumentation skills",
+          "weight": 0.3979,
+          "cooc": 1
+        },
+        {
+          "id": "assessment task",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.1853,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "reflective assessment": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "assessment task",
+          "weight": 0.5961,
+          "cooc": 2
+        },
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "student reflective",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "teachers scaffolding",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "knowledge building",
+          "weight": 0.4306,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "regulated learning": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "motivation metacognition",
+          "weight": 0.5677,
+          "cooc": 1
+        },
+        {
+          "id": "student reflective",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "test motivation",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2567,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1171,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 10,
+      "neighbors": [
+        {
+          "id": "learning management",
+          "weight": 0.5417,
+          "cooc": 2
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.5157,
+          "cooc": 2
+        },
+        {
+          "id": "language skills",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "global learners",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "using chatbot",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "metacognition",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "skills research",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.2628,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.2313,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1668,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "remote teaching": {
+    "ls": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "online instruction",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.5038,
+          "cooc": 3
+        },
+        {
+          "id": "learning environments",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "educational technologies",
+          "weight": 0.421,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.3484,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3373,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "support teaching",
+          "weight": 0.659,
+          "cooc": 2
+        },
+        {
+          "id": "teachers experienced",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "professional learning",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.4198,
+          "cooc": 4
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "role play": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "language skills",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "skills oral",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "educational game",
+          "weight": 0.4339,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "schools art": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "students creative",
+          "weight": 0.6283,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "science curriculum": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 12,
+      "neighbors": [
+        {
+          "id": "culturally responsive",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "inquiry science",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "teachers knowledge",
+          "weight": 0.4137,
+          "cooc": 1
+        },
+        {
+          "id": "students research",
+          "weight": 0.4137,
+          "cooc": 1
+        },
+        {
+          "id": "stem learning",
+          "weight": 0.3523,
+          "cooc": 1
+        },
+        {
+          "id": "students computational",
+          "weight": 0.3523,
+          "cooc": 1
+        },
+        {
+          "id": "curricular",
+          "weight": 0.3289,
+          "cooc": 1
+        },
+        {
+          "id": "curriculum design",
+          "weight": 0.2909,
+          "cooc": 1
+        },
+        {
+          "id": "literacy",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.2749,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.2352,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.2239,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.2037,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.1699,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "self explanations": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "learning outcomes",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "explanation prompts",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "prompts learners",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.5247,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "sensemaking coaching": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "students epistemic",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2778,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2556,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "skills oral": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "language skills",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "role play",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "formative assessment",
+          "weight": 0.5899,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "skills research": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "students research",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.4075,
+          "cooc": 1
+        },
+        {
+          "id": "design narrative",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "assessment design",
+          "weight": 0.3363,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "social justice": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "inclusive learning",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "social media": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "students social",
+          "weight": 0.6328,
+          "cooc": 4
+        },
+        {
+          "id": "use social",
+          "weight": 0.5596,
+          "cooc": 2
+        },
+        {
+          "id": "twitter",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "students online",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.378,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1984,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "stem education": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "learning engineers",
+          "weight": 0.5446,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "stem learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "teaching covid",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "curricular",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.3523,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.3402,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1217,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "student efficacy": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "oer student",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "open educational",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "student engagement": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "online instruction",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "student writing",
+          "weight": 0.5008,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.2787,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1846,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "student interaction": {
+    "ls": {
+      "freq": 12,
+      "neighbors": [
+        {
+          "id": "dialogic education",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "student thinking",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.4469,
+          "cooc": 4
+        },
+        {
+          "id": "gamification",
+          "weight": 0.3876,
+          "cooc": 1
+        },
+        {
+          "id": "educators",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "cognitive load",
+          "weight": 0.3173,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2355,
+          "cooc": 5
+        },
+        {
+          "id": "students social",
+          "weight": 0.2336,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "student motivation": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 13,
+      "neighbors": [
+        {
+          "id": "learning projects",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "project students",
+          "weight": 0.4451,
+          "cooc": 1
+        },
+        {
+          "id": "computational",
+          "weight": 0.3678,
+          "cooc": 1
+        },
+        {
+          "id": "students feedback",
+          "weight": 0.3402,
+          "cooc": 1
+        },
+        {
+          "id": "tutoring",
+          "weight": 0.3402,
+          "cooc": 1
+        },
+        {
+          "id": "stem learning",
+          "weight": 0.3402,
+          "cooc": 1
+        },
+        {
+          "id": "student engagement",
+          "weight": 0.2787,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.2628,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.2352,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.1916,
+          "cooc": 1
+        },
+        {
+          "id": "educational technology",
+          "weight": 0.1578,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.1434,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "student reflective": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "reflective assessment",
+          "weight": 0.5186,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.4913,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2778,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "student thinking": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "teachers video",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "gamification",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "cognitive load",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics classrooms",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3542,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "student writing": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "student engagement",
+          "weight": 0.5008,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "students computational": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "computational thinking",
+          "weight": 0.7961,
+          "cooc": 6
+        },
+        {
+          "id": "students research",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "professional development",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.3523,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "students conceptual": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "conceptual knowledge",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "effect instructional",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "discourse student",
+          "weight": 0.5016,
+          "cooc": 1
+        },
+        {
+          "id": "test motivation",
+          "weight": 0.4179,
+          "cooc": 1
+        },
+        {
+          "id": "metacognitive",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics classrooms",
+          "weight": 0.3253,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2851,
+          "cooc": 4
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "students creative": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "schools art",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "metacognitive",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "students disabilities": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "empathy teacher",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "discourse student",
+          "weight": 0.5519,
+          "cooc": 1
+        },
+        {
+          "id": "use social",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3646,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2839,
+          "cooc": 1
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2556,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "students epistemic": {
+    "ls": {
+      "freq": 8,
+      "neighbors": [
+        {
+          "id": "sensemaking coaching",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.2136,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "students experiences": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "students feedback",
+          "weight": 0.6282,
+          "cooc": 2
+        },
+        {
+          "id": "pandemic",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "blended learning",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2533,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "students feedback": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "students experiences",
+          "weight": 0.6282,
+          "cooc": 2
+        },
+        {
+          "id": "course redesign",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "instructor presence",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "tutoring",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.3402,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "students online": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "use social",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "social media",
+          "weight": 0.4483,
+          "cooc": 1
+        },
+        {
+          "id": "engagement learning",
+          "weight": 0.4149,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.3646,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2839,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "students redesign": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "course redesign",
+          "weight": 0.8628,
+          "cooc": 2
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2156,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "students research": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "skills research",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "students computational",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.4137,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.3701,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1633,
+          "cooc": 3
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "students social": {
+    "ls": {
+      "freq": 14,
+      "neighbors": [
+        {
+          "id": "social media",
+          "weight": 0.6328,
+          "cooc": 4
+        },
+        {
+          "id": "use social",
+          "weight": 0.4662,
+          "cooc": 2
+        },
+        {
+          "id": "beginning teachers",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "challenges teachers",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "course design",
+          "weight": 0.3979,
+          "cooc": 1
+        },
+        {
+          "id": "learners engage",
+          "weight": 0.3646,
+          "cooc": 1
+        },
+        {
+          "id": "students online",
+          "weight": 0.3646,
+          "cooc": 1
+        },
+        {
+          "id": "students disabilities",
+          "weight": 0.3646,
+          "cooc": 1
+        },
+        {
+          "id": "design research",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "maker education",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "moocs design",
+          "weight": 0.3373,
+          "cooc": 1
+        },
+        {
+          "id": "learning analytics",
+          "weight": 0.2943,
+          "cooc": 1
+        },
+        {
+          "id": "student interaction",
+          "weight": 0.2336,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1299,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "study discussions": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "online discussions",
+          "weight": 0.6714,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.5109,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "support teaching": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "remote teaching",
+          "weight": 0.659,
+          "cooc": 2
+        },
+        {
+          "id": "faculty perceive",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "designers involved",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2841,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "tangible": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "collaborative learning",
+          "weight": 0.2208,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teach critical": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "critical thinking",
+          "weight": 1.0,
+          "cooc": 3
+        },
+        {
+          "id": "reasoning tasks",
+          "weight": 0.5247,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.3603,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.3373,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teacher dashboard": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "dashboard",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "educational tool",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teacher digital": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 14,
+      "neighbors": [
+        {
+          "id": "digital competence",
+          "weight": 0.7938,
+          "cooc": 5
+        },
+        {
+          "id": "digital literacy",
+          "weight": 0.6526,
+          "cooc": 4
+        },
+        {
+          "id": "oer research",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "literacy",
+          "weight": 0.3984,
+          "cooc": 2
+        },
+        {
+          "id": "competency self",
+          "weight": 0.3903,
+          "cooc": 1
+        },
+        {
+          "id": "elucidate competencies",
+          "weight": 0.3903,
+          "cooc": 1
+        },
+        {
+          "id": "professional development",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.3565,
+          "cooc": 1
+        },
+        {
+          "id": "teacher professional",
+          "weight": 0.3289,
+          "cooc": 1
+        },
+        {
+          "id": "inclusive learning",
+          "weight": 0.2675,
+          "cooc": 1
+        },
+        {
+          "id": "science curriculum",
+          "weight": 0.2239,
+          "cooc": 1
+        },
+        {
+          "id": "open educational",
+          "weight": 0.2239,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teacher genai": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "ai literacy",
+          "weight": 0.6968,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teacher involvement": {
+    "ls": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "beginning teachers",
+          "weight": 0.6283,
+          "cooc": 1
+        },
+        {
+          "id": "teachers scaffolding",
+          "weight": 0.5016,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.3191,
+          "cooc": 3
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.314,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teacher professional": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "professional development",
+          "weight": 0.659,
+          "cooc": 2
+        },
+        {
+          "id": "professional learning",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "teachers experienced",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "blended learning",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "digital literacy",
+          "weight": 0.4339,
+          "cooc": 1
+        },
+        {
+          "id": "literacy",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "teacher digital",
+          "weight": 0.3289,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.1217,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teacher support": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "groups students",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "teachers scaffolding",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "effect students",
+          "weight": 0.452,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teachers experienced": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "professional learning",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "teaching covid",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "mathematics education",
+          "weight": 0.5899,
+          "cooc": 1
+        },
+        {
+          "id": "teacher professional",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "remote teaching",
+          "weight": 0.5622,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.2267,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1322,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teachers knowledge": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "science curriculum",
+          "weight": 0.4137,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teachers misconceptions": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "multimedia learning",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teachers noticing": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "multimedia learning",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.3542,
+          "cooc": 1
+        },
+        {
+          "id": "instructional design",
+          "weight": 0.2779,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teachers scaffolding": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "teacher support",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "teacher involvement",
+          "weight": 0.5016,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative inquiry",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "reflective assessment",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "argumentation skills",
+          "weight": 0.4179,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teachers simulated": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "instructional design",
+          "weight": 0.1454,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teachers video": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "beginning teachers",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "student thinking",
+          "weight": 0.595,
+          "cooc": 1
+        },
+        {
+          "id": "discourse student",
+          "weight": 0.5519,
+          "cooc": 1
+        },
+        {
+          "id": "classroom discourse",
+          "weight": 0.2778,
+          "cooc": 1
+        },
+        {
+          "id": "collaborative learning",
+          "weight": 0.1444,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "teaching covid": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "teachers experienced",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "computational",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "stem learning",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "programming",
+          "weight": 0.4413,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.3701,
+          "cooc": 1
+        },
+        {
+          "id": "online learning",
+          "weight": 0.3219,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "teaching presence": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "instructor presence",
+          "weight": 0.8141,
+          "cooc": 2
+        },
+        {
+          "id": "vr learning",
+          "weight": 0.3799,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "technology acceptance": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "3d printing",
+          "weight": 0.6672,
+          "cooc": 1
+        },
+        {
+          "id": "mobile learning",
+          "weight": 0.6236,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "term blended": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "blended learning",
+          "weight": 0.7455,
+          "cooc": 2
+        },
+        {
+          "id": "informal learning",
+          "weight": 0.4573,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "test motivation": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "learner motivation",
+          "weight": 0.6381,
+          "cooc": 2
+        },
+        {
+          "id": "motivation metacognition",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "learning outcomes",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "engaging science",
+          "weight": 0.5016,
+          "cooc": 1
+        },
+        {
+          "id": "achieving students",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "students conceptual",
+          "weight": 0.4179,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "trauma": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "trauma informed",
+          "weight": 0.9572,
+          "cooc": 4
+        },
+        {
+          "id": "mentoring",
+          "weight": 0.5463,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "trauma informed": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "trauma",
+          "weight": 0.9572,
+          "cooc": 4
+        },
+        {
+          "id": "emotional learning",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "pandemic",
+          "weight": 0.5463,
+          "cooc": 1
+        },
+        {
+          "id": "mentoring",
+          "weight": 0.5125,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "tutoring": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 6,
+      "neighbors": [
+        {
+          "id": "using chatbot",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "learner interactions",
+          "weight": 0.4849,
+          "cooc": 1
+        },
+        {
+          "id": "students feedback",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "student motivation",
+          "weight": 0.3402,
+          "cooc": 1
+        },
+        {
+          "id": "ai teaching",
+          "weight": 0.2605,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "twitter": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "use social",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "social media",
+          "weight": 0.5247,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "use data": {
+    "ls": {
+      "freq": 5,
+      "neighbors": [
+        {
+          "id": "data science",
+          "weight": 0.7314,
+          "cooc": 2
+        },
+        {
+          "id": "data literacy",
+          "weight": 0.4324,
+          "cooc": 2
+        },
+        {
+          "id": "learning sciences",
+          "weight": 0.2556,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "use embodied": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "gestures",
+          "weight": 0.8141,
+          "cooc": 2
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "use social": {
+    "ls": {
+      "freq": 7,
+      "neighbors": [
+        {
+          "id": "social media",
+          "weight": 0.5596,
+          "cooc": 2
+        },
+        {
+          "id": "librarians africa",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "twitter",
+          "weight": 0.5446,
+          "cooc": 1
+        },
+        {
+          "id": "students online",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "students disabilities",
+          "weight": 0.4682,
+          "cooc": 1
+        },
+        {
+          "id": "students social",
+          "weight": 0.4662,
+          "cooc": 2
+        },
+        {
+          "id": "maker education",
+          "weight": 0.441,
+          "cooc": 1
+        },
+        {
+          "id": "academic libraries",
+          "weight": 0.161,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "using chatbot": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 4,
+      "neighbors": [
+        {
+          "id": "design knowledge",
+          "weight": 0.6236,
+          "cooc": 1
+        },
+        {
+          "id": "tutoring",
+          "weight": 0.5187,
+          "cooc": 1
+        },
+        {
+          "id": "design team",
+          "weight": 0.4573,
+          "cooc": 1
+        },
+        {
+          "id": "regulated learning",
+          "weight": 0.4413,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "value study": {
+    "ls": {
+      "freq": 3,
+      "neighbors": [
+        {
+          "id": "academic libraries",
+          "weight": 0.4367,
+          "cooc": 2
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  },
+  "vr learning": {
+    "ls": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "et": {
+      "freq": 20,
+      "neighbors": [
+        {
+          "id": "immersive virtual",
+          "weight": 0.5417,
+          "cooc": 2
+        },
+        {
+          "id": "inquiry science",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "teaching presence",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "online instruction",
+          "weight": 0.3799,
+          "cooc": 1
+        },
+        {
+          "id": "augmented reality",
+          "weight": 0.2516,
+          "cooc": 1
+        },
+        {
+          "id": "curriculum design",
+          "weight": 0.2135,
+          "cooc": 1
+        },
+        {
+          "id": "computational thinking",
+          "weight": 0.1264,
+          "cooc": 1
+        },
+        {
+          "id": "multimedia learning",
+          "weight": 0.1003,
+          "cooc": 1
+        }
+      ]
+    },
+    "fuzzy_links": []
+  },
+  "youth learning": {
+    "ls": {
+      "freq": 9,
+      "neighbors": [
+        {
+          "id": "media literacy",
+          "weight": 0.464,
+          "cooc": 1
+        },
+        {
+          "id": "literacy skills",
+          "weight": 0.173,
+          "cooc": 1
+        }
+      ]
+    },
+    "et": {
+      "freq": 0,
+      "neighbors": []
+    },
+    "fuzzy_links": []
+  }
+}

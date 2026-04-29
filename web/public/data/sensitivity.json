@@ -1,0 +1,124 @@
+{
+  "cosine_merge_sweep": {
+    "ref": 0.8,
+    "top_k": 30,
+    "fields": {
+      "ls": [
+        {
+          "cosine": 0.7,
+          "n_canonicals": 733,
+          "top_k_jaccard": 0.0526
+        },
+        {
+          "cosine": 0.75,
+          "n_canonicals": 1296,
+          "top_k_jaccard": 0.1538
+        },
+        {
+          "cosine": 0.8,
+          "n_canonicals": 1964,
+          "top_k_jaccard": 1.0
+        },
+        {
+          "cosine": 0.85,
+          "n_canonicals": 2604,
+          "top_k_jaccard": 0.3953
+        },
+        {
+          "cosine": 0.9,
+          "n_canonicals": 2993,
+          "top_k_jaccard": 0.3043
+        }
+      ],
+      "et": [
+        {
+          "cosine": 0.7,
+          "n_canonicals": 662,
+          "top_k_jaccard": 0.0909
+        },
+        {
+          "cosine": 0.75,
+          "n_canonicals": 1138,
+          "top_k_jaccard": 0.2766
+        },
+        {
+          "cosine": 0.8,
+          "n_canonicals": 1707,
+          "top_k_jaccard": 1.0
+        },
+        {
+          "cosine": 0.85,
+          "n_canonicals": 2198,
+          "top_k_jaccard": 0.5385
+        },
+        {
+          "cosine": 0.9,
+          "n_canonicals": 2550,
+          "top_k_jaccard": 0.3333
+        }
+      ]
+    }
+  },
+  "npmi_sweep": {
+    "ref": 0.2,
+    "n_focus_nodes": 20,
+    "top_k_neighbors": 10,
+    "fields": {
+      "ls": [
+        {
+          "npmi": 0.1,
+          "n_links": 73,
+          "neighbor_jaccard": 0.748
+        },
+        {
+          "npmi": 0.15,
+          "n_links": 65,
+          "neighbor_jaccard": 0.95
+        },
+        {
+          "npmi": 0.2,
+          "n_links": 54,
+          "neighbor_jaccard": 1.0
+        },
+        {
+          "npmi": 0.25,
+          "n_links": 52,
+          "neighbor_jaccard": 0.9667
+        },
+        {
+          "npmi": 0.3,
+          "n_links": 39,
+          "neighbor_jaccard": 0.8
+        }
+      ],
+      "et": [
+        {
+          "npmi": 0.1,
+          "n_links": 73,
+          "neighbor_jaccard": 0.9267
+        },
+        {
+          "npmi": 0.15,
+          "n_links": 57,
+          "neighbor_jaccard": 0.96
+        },
+        {
+          "npmi": 0.2,
+          "n_links": 47,
+          "neighbor_jaccard": 1.0
+        },
+        {
+          "npmi": 0.25,
+          "n_links": 43,
+          "neighbor_jaccard": 0.9333
+        },
+        {
+          "npmi": 0.3,
+          "n_links": 39,
+          "neighbor_jaccard": 0.8133
+        }
+      ]
+    }
+  },
+  "interpretation": "Top-K Jaccard near 1.0 means top keywords stay stable across the parameter range. Neighbor-set Jaccard near 1.0 means the most-frequent nodes have the same neighbor profile across NPMI thresholds. Both support that the headline findings are not artifacts of threshold choice."
+}

@@ -1,0 +1,1195 @@
+{
+  "method": "BERTopic UMAP15+HDBSCAN(min_cluster_size=10, seed=42)",
+  "n_topics": 33,
+  "n_outliers": 422,
+  "topics": [
+    {
+      "id": 0,
+      "size": 95,
+      "top_words": [
+        "library",
+        "libraries",
+        "librarians",
+        "academic",
+        "information",
+        "purpose",
+        "study",
+        "research"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-07-2017-0073",
+          "title": "User-friendly libraries for active teaching and learning",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1108/ils-11-2017-0126",
+          "title": "Learners’ perceptions on online library resources at Namibian College of Open Learning",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1108/ils-01-2024-0012",
+          "title": "Integrating a digital pedagogy approach into online teaching: are academic librarians at Universities of Technology in South Africa prepared?",
+          "field": "LS",
+          "year": 2024
+        }
+      ],
+      "ls_count": 91,
+      "et_count": 4
+    },
+    {
+      "id": 1,
+      "size": 88,
+      "top_words": [
+        "design",
+        "instructional",
+        "instructional design",
+        "designers",
+        "instructional designers",
+        "program",
+        "faculty",
+        "case"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11423-024-10361-1",
+          "title": "Instructional design students’ design judgment development",
+          "field": "ET",
+          "year": 2024
+        },
+        {
+          "doi": "10.51869/93jsrmrjkmd",
+          "title": "Design Considerations for Bridging the Gap Between Instructional Design Pedagogy and Practice",
+          "field": "ET",
+          "year": 2020
+        },
+        {
+          "doi": "10.1007/s11528-025-01154-1",
+          "title": "Critical and Creative Methods: From Learning Design Practice To Research",
+          "field": "ET",
+          "year": 2025
+        }
+      ],
+      "ls_count": 9,
+      "et_count": 79
+    },
+    {
+      "id": 2,
+      "size": 83,
+      "top_words": [
+        "game",
+        "games",
+        "design",
+        "play",
+        "gamification",
+        "learning",
+        "players",
+        "students"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1080/10508406.2019.1675071",
+          "title": "Roles, Rules, and Keys: How Different Play Configurations Shape Collaborative Science Inquiry",
+          "field": "LS",
+          "year": 2019
+        },
+        {
+          "doi": "10.1080/10508406.2018.1487302",
+          "title": "Designing Educational Video Games to Be Objects-to-Think-With",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1108/ils-08-2019-0081",
+          "title": "The impact of different play activity designs on students’ embodied learning",
+          "field": "LS",
+          "year": 2019
+        }
+      ],
+      "ls_count": 27,
+      "et_count": 56
+    },
+    {
+      "id": 3,
+      "size": 70,
+      "top_words": [
+        "ai",
+        "generative",
+        "generative ai",
+        "chatgpt",
+        "students",
+        "education",
+        "artificial",
+        "learning"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.14434/ijdl.v16i2.42081",
+          "title": "Designing for AI Literacy: A Modular, GenAI-Integrated Course for Interdisciplinary Graduate Students in Education",
+          "field": "ET",
+          "year": 2025
+        },
+        {
+          "doi": "10.1007/s11528-025-01095-9",
+          "title": "Can Generative AI Replace Search Engines for Learning? Understanding Student Preferences, Use and Perceived Proficiency in Using AI",
+          "field": "ET",
+          "year": 2025
+        },
+        {
+          "doi": "10.14434/ijdl.v16i2.42150",
+          "title": "Capturing Elusive Technology: Designing a Course on AI for Learning and Development Practitioners",
+          "field": "ET",
+          "year": 2025
+        }
+      ],
+      "ls_count": 17,
+      "et_count": 53
+    },
+    {
+      "id": 4,
+      "size": 65,
+      "top_words": [
+        "design",
+        "makerspace",
+        "maker",
+        "learning",
+        "making",
+        "engineering",
+        "makerspaces",
+        "teachers"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11423-023-10305-1",
+          "title": "Understanding the educators’ practices in makerspaces for the design of education tools",
+          "field": "ET",
+          "year": 2023
+        },
+        {
+          "doi": "10.14434/ijdl.v7i2.20267",
+          "title": "Makerspace Classrooms: Where Technology Intersects With Problem, Project, and Place-Based Design in Classroom Curriculum",
+          "field": "ET",
+          "year": 2016
+        },
+        {
+          "doi": "10.14434/ijdl.v11i2.27010",
+          "title": "Drive Student Success: Designing a MakerBus to Bring Standard-Based Making and Technology Activities into K-12 Schools",
+          "field": "ET",
+          "year": 2020
+        }
+      ],
+      "ls_count": 17,
+      "et_count": 48
+    },
+    {
+      "id": 5,
+      "size": 46,
+      "top_words": [
+        "vr",
+        "reality",
+        "virtual",
+        "immersive",
+        "virtual reality",
+        "ar",
+        "augmented",
+        "augmented reality"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11528-025-01138-1",
+          "title": "Identifying Virtual/Augmented Reality Research in K-12 Science Education: A Scoping Study",
+          "field": "ET",
+          "year": 2025
+        },
+        {
+          "doi": "10.1007/s11412-025-09446-7",
+          "title": "Activity-based collaborative virtual reality: Conceptualising immersive virtual reality for collaborative learning",
+          "field": "LS",
+          "year": 2025
+        },
+        {
+          "doi": "10.51869/114/rb",
+          "title": "Virtual Reality in Workplace Learning",
+          "field": "ET",
+          "year": 2022
+        }
+      ],
+      "ls_count": 13,
+      "et_count": 33
+    },
+    {
+      "id": 6,
+      "size": 46,
+      "top_words": [
+        "pandemic",
+        "remote",
+        "covid19",
+        "teachers",
+        "emergency",
+        "online",
+        "teaching",
+        "remote teaching"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-04-2020-0112",
+          "title": "Pandemic designs for the future: perspectives of technology education teachers during COVID-19",
+          "field": "LS",
+          "year": 2020
+        },
+        {
+          "doi": "10.1007/s11423-021-10008-5",
+          "title": "Examining K-12 teachers’ feelings, experiences, and perspectives regarding online teaching during the early stage of the COVID-19 pandemic",
+          "field": "ET",
+          "year": 2021
+        },
+        {
+          "doi": "10.1007/s11528-022-00710-3",
+          "title": "The Role of the Advocate in Cyber Schools during the COVID-19 Pandemic",
+          "field": "ET",
+          "year": 2022
+        }
+      ],
+      "ls_count": 19,
+      "et_count": 27
+    },
+    {
+      "id": 7,
+      "size": 43,
+      "top_words": [
+        "instruction",
+        "examples",
+        "knowledge",
+        "prior",
+        "pf",
+        "students",
+        "learning",
+        "problem"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11251-020-09528-z",
+          "title": "Preparatory effects of problem solving versus studying examples prior to instruction",
+          "field": "LS",
+          "year": 2021
+        },
+        {
+          "doi": "10.1007/s11251-020-09504-7",
+          "title": "The effect of contrasting cases during problem solving prior to and after instruction",
+          "field": "LS",
+          "year": 2020
+        },
+        {
+          "doi": "10.1007/s11251-025-09709-8",
+          "title": "Problem-solving before instruction for learning linear algebra in university mathematics",
+          "field": "LS",
+          "year": 2025
+        }
+      ],
+      "ls_count": 40,
+      "et_count": 3
+    },
+    {
+      "id": 8,
+      "size": 42,
+      "top_words": [
+        "teachers",
+        "mathematics",
+        "teacher",
+        "discourse",
+        "students",
+        "support",
+        "classroom",
+        "mathematical"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1080/10508406.2015.1034865",
+          "title": "Opportunities for Professional Learning in Mathematics Teacher Workgroup Conversations: Relationships to Instructional Expertise",
+          "field": "LS",
+          "year": 2015
+        },
+        {
+          "doi": "10.1080/10508406.2021.2024834",
+          "title": "Scaffolding small groups at the group level: Improving the scaffolding behavior of mathematics teachers during mathematical discussions",
+          "field": "LS",
+          "year": 2022
+        },
+        {
+          "doi": "10.1080/10508406.2022.2073232",
+          "title": "What do correct answers reveal? The interpersonal and mathematical aspects of students’ interactions during groupwork in seventh grade mathematics",
+          "field": "LS",
+          "year": 2022
+        }
+      ],
+      "ls_count": 38,
+      "et_count": 4
+    },
+    {
+      "id": 9,
+      "size": 42,
+      "top_words": [
+        "collaborative",
+        "collaboration",
+        "collaborative learning",
+        "group",
+        "groups",
+        "cps",
+        "learning",
+        "group awareness"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11412-019-09296-0",
+          "title": "Improving the quality of vocational students’ collaboration and knowledge acquisition through instruction and joint reflection",
+          "field": "LS",
+          "year": 2019
+        },
+        {
+          "doi": "10.1007/s11423-019-09729-5",
+          "title": "Applying collaborative cognitive load theory to computer-supported collaborative learning: towards a research agenda",
+          "field": "ET",
+          "year": 2020
+        },
+        {
+          "doi": "10.1108/ils-04-2020-0090",
+          "title": "Promoting interaction in online distance education: designing, implementing and supporting collaborative learning",
+          "field": "LS",
+          "year": 2020
+        }
+      ],
+      "ls_count": 39,
+      "et_count": 3
+    },
+    {
+      "id": 10,
+      "size": 41,
+      "top_words": [
+        "data",
+        "data literacy",
+        "literacy",
+        "privacy",
+        "data science",
+        "open data",
+        "open",
+        "purpose"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-06-2023-0075",
+          "title": "The data awareness framework as part of data literacies in K-12 education",
+          "field": "LS",
+          "year": 2023
+        },
+        {
+          "doi": "10.1108/ils-06-2023-0068",
+          "title": "Teaching data storytelling as data literacy",
+          "field": "LS",
+          "year": 2024
+        },
+        {
+          "doi": "10.1080/10508406.2019.1689365",
+          "title": "Authoring Data Stories in a Media Makerspace: Adolescents Developing Critical Data Literacies",
+          "field": "LS",
+          "year": 2019
+        }
+      ],
+      "ls_count": 38,
+      "et_count": 3
+    },
+    {
+      "id": 11,
+      "size": 41,
+      "top_words": [
+        "science",
+        "youth",
+        "learning",
+        "color",
+        "emotion",
+        "stem",
+        "school",
+        "practices"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1080/10508406.2021.1977646",
+          "title": "Young women of color figuring science and identity within and beyond an afterschool science program",
+          "field": "LS",
+          "year": 2021
+        },
+        {
+          "doi": "10.1080/10508406.2019.1591411",
+          "title": "Designing for Rightful Presence in STEM: The Role of Making Present Practices",
+          "field": "LS",
+          "year": 2019
+        },
+        {
+          "doi": "10.1080/10508406.2022.2154158",
+          "title": "Youth as pattern makers for racial justice: How speculative design pedagogy in science can promote restorative futures through radical care practices",
+          "field": "LS",
+          "year": 2023
+        }
+      ],
+      "ls_count": 36,
+      "et_count": 5
+    },
+    {
+      "id": 12,
+      "size": 36,
+      "top_words": [
+        "learning sciences",
+        "sciences",
+        "interdisciplinary",
+        "learning",
+        "interdisciplinary learning",
+        "research",
+        "journal",
+        "journal learning"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1080/10508406.2021.1880160",
+          "title": "Note from incoming co-editors",
+          "field": "LS",
+          "year": 2021
+        },
+        {
+          "doi": "10.1080/10508406.2015.1091704",
+          "title": "Paving New Pathways to Supporting Disciplinary Learning",
+          "field": "LS",
+          "year": 2015
+        },
+        {
+          "doi": "10.1080/10508406.2021.1880158",
+          "title": "From the outgoing editors",
+          "field": "LS",
+          "year": 2021
+        }
+      ],
+      "ls_count": 33,
+      "et_count": 3
+    },
+    {
+      "id": 13,
+      "size": 36,
+      "top_words": [
+        "multimedia",
+        "video",
+        "videos",
+        "vision",
+        "teachers",
+        "cognitive",
+        "multimedia learning",
+        "professional"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11251-024-09662-y",
+          "title": "Signaling cues and focused prompts for professional vision support: The interplay of instructional design and situational interest in preservice teachers’ video analysis",
+          "field": "LS",
+          "year": 2024
+        },
+        {
+          "doi": "10.1007/s11251-025-09738-3",
+          "title": "Complete or faded double-content examples of video-based analyses: How do they impact student teachers’ professional vision of classroom management?",
+          "field": "LS",
+          "year": 2025
+        },
+        {
+          "doi": "10.1007/s11423-022-10181-1",
+          "title": "Using commonly-available technologies to create online multimedia lessons through the application of the Cognitive Theory of Multimedia Learning",
+          "field": "ET",
+          "year": 2022
+        }
+      ],
+      "ls_count": 15,
+      "et_count": 21
+    },
+    {
+      "id": 14,
+      "size": 36,
+      "top_words": [
+        "ct",
+        "programming",
+        "computational",
+        "computing",
+        "coding",
+        "computational thinking",
+        "thinking",
+        "students"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11423-024-10443-0",
+          "title": "An educational model of equity and computing: a study of marginalized student experience during COVID pandemic",
+          "field": "ET",
+          "year": 2024
+        },
+        {
+          "doi": "10.1108/ils-05-2018-0037",
+          "title": "“I like computers. I hate coding”: a portrait of two teens’ experiences",
+          "field": "LS",
+          "year": 2019
+        },
+        {
+          "doi": "10.1007/s11423-025-10477-y",
+          "title": "Computational thinking beyond coding: exploring student computational practices while playing and modifying a socio-scientific simulation game with integrated computational tools",
+          "field": "ET",
+          "year": 2025
+        }
+      ],
+      "ls_count": 20,
+      "et_count": 16
+    },
+    {
+      "id": 15,
+      "size": 31,
+      "top_words": [
+        "assessment",
+        "srl",
+        "formative assessment",
+        "formative",
+        "selfregulated",
+        "selfregulated learning",
+        "students",
+        "teachers"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s41686-024-00089-9",
+          "title": "Secondary School Teachers’ Use of Formative Assessment Practice to Create Co-regulated Learning",
+          "field": "ET",
+          "year": 2024
+        },
+        {
+          "doi": "10.1007/s41686-023-00082-8",
+          "title": "Formative Use of Assessment to Foster Self-Regulated Learning: the Alignment of Teachers’ Conceptions and Classroom Assessment Practices",
+          "field": "ET",
+          "year": 2023
+        },
+        {
+          "doi": "10.1007/s11423-025-10521-x",
+          "title": "Development and validation of a learning analytics rubric for self-regulated learning",
+          "field": "ET",
+          "year": 2025
+        }
+      ],
+      "ls_count": 14,
+      "et_count": 17
+    },
+    {
+      "id": 16,
+      "size": 30,
+      "top_words": [
+        "science",
+        "scientific",
+        "epistemic",
+        "students",
+        "curriculum",
+        "unit",
+        "instruction",
+        "teaching"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-06-2021-0049",
+          "title": "Does context shape comprehension: evaluating the influence of presentation on inquiry strategies in science learning",
+          "field": "LS",
+          "year": 2021
+        },
+        {
+          "doi": "10.14434/ijdl.v7i2.20137",
+          "title": "Critical Design Decisions for Successful Model-Based Inquiry in Science Classrooms",
+          "field": "ET",
+          "year": 2016
+        },
+        {
+          "doi": "10.14434/ijdl.v7i1.19524",
+          "title": "Enacting a Reform-Based Science Curriculum: Design Changes to Extend Inquiry",
+          "field": "ET",
+          "year": 2016
+        }
+      ],
+      "ls_count": 17,
+      "et_count": 13
+    },
+    {
+      "id": 17,
+      "size": 27,
+      "top_words": [
+        "design",
+        "engineering",
+        "project",
+        "research",
+        "learning",
+        "interior design",
+        "students",
+        "interior"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.14434/ijdl.v8i2.21363",
+          "title": "Students as Researchers, Collaborators, &amp; End-users: Informing Campus Design",
+          "field": "ET",
+          "year": 2017
+        },
+        {
+          "doi": "10.14434/ijdl.v12i2.25372",
+          "title": "Pedagogy + Reflection: A Problem-Based Learning Case in Interior Design",
+          "field": "ET",
+          "year": 2021
+        },
+        {
+          "doi": "10.1080/10508406.2016.1226835",
+          "title": "Understanding Design Research–Practice Partnerships in Context and Time: Why Learning Sciences Scholars Should Learn From Cultural-Historical Activity Theory Approaches to Design-Based Research",
+          "field": "LS",
+          "year": 2016
+        }
+      ],
+      "ls_count": 14,
+      "et_count": 13
+    },
+    {
+      "id": 18,
+      "size": 25,
+      "top_words": [
+        "online",
+        "learning",
+        "orientation",
+        "online learning",
+        "course",
+        "students",
+        "online courses",
+        "online teaching"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-10-2023-0143",
+          "title": "Lessons learned from the COVID-19 pandemic: a practical guide for designing synchronous online teaching in higher education",
+          "field": "LS",
+          "year": 2024
+        },
+        {
+          "doi": "10.1108/ils-04-2020-0116",
+          "title": "Collaborating in online teaching: inviting e-guests to facilitate learning in the digital environment",
+          "field": "LS",
+          "year": 2020
+        },
+        {
+          "doi": "10.51869/112/yklo",
+          "title": "Expanding Online Professional Learning in the Post-COVID Era: The Potential of the Universal Design for Learning Framework",
+          "field": "ET",
+          "year": 2022
+        }
+      ],
+      "ls_count": 5,
+      "et_count": 20
+    },
+    {
+      "id": 19,
+      "size": 18,
+      "top_words": [
+        "udl",
+        "course",
+        "online",
+        "design",
+        "udl principles",
+        "courses",
+        "universal design",
+        "higher education"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.51869/101alvallh",
+          "title": "Challenges and Opportunities in Adhering to UDL Principles to Design Online Courses",
+          "field": "ET",
+          "year": 2021
+        },
+        {
+          "doi": "10.51869/101bobbcw",
+          "title": "Adopting and Applying the Universal Design for Learning Principles in Online Courses",
+          "field": "ET",
+          "year": 2021
+        },
+        {
+          "doi": "10.1007/s11528-024-00981-y",
+          "title": "Enhancing Access in an Online Course Using Universal Design for Learning (UDL) and Scenario-Based Learning (SBL)",
+          "field": "ET",
+          "year": 2024
+        }
+      ],
+      "ls_count": 0,
+      "et_count": 18
+    },
+    {
+      "id": 20,
+      "size": 18,
+      "top_words": [
+        "analytics",
+        "learning analytics",
+        "data",
+        "trust",
+        "higher education",
+        "la",
+        "lms",
+        "higher"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-06-2018-0045",
+          "title": "Learning analytics: where information science and the learning sciences meet",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1108/ils-11-2018-135",
+          "title": "The SMART university: the transformational role of learning analytics",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1007/s11528-023-00905-2",
+          "title": "Design and Implementation of an Automated Classroom Analytics System: Stakeholder Engagement and Mapping",
+          "field": "ET",
+          "year": 2023
+        }
+      ],
+      "ls_count": 10,
+      "et_count": 8
+    },
+    {
+      "id": 21,
+      "size": 18,
+      "top_words": [
+        "social media",
+        "media",
+        "social",
+        "informal",
+        "informal learning",
+        "media use",
+        "professional",
+        "teachers"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-04-2020-0138",
+          "title": "Teaching with social media: evidence-based strategies for making remote higher education less remote",
+          "field": "LS",
+          "year": 2020
+        },
+        {
+          "doi": "10.51869/103/lgvlpco",
+          "title": "Informal Learning Experiences on Social Media: The Case of #MarketingTwitter",
+          "field": "ET",
+          "year": 2021
+        },
+        {
+          "doi": "10.1108/ils-12-2023-0198",
+          "title": "K-12 teachers’ professional development and learning on social media: a systematic literature review",
+          "field": "LS",
+          "year": 2024
+        }
+      ],
+      "ls_count": 12,
+      "et_count": 6
+    },
+    {
+      "id": 22,
+      "size": 17,
+      "top_words": [
+        "information",
+        "search",
+        "wikipedia",
+        "adolescents",
+        "online search",
+        "literacy",
+        "paper",
+        "study"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-07-2018-0059",
+          "title": "Digital literacies: preparing pupils and students for their information journey in the twenty-first century",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1108/ils-08-2020-0206",
+          "title": "Characterizing an information environment for supporting learning",
+          "field": "LS",
+          "year": 2021
+        },
+        {
+          "doi": "10.1007/s11412-015-9210-6",
+          "title": "The new information literate: Open collaboration and information production in schools",
+          "field": "LS",
+          "year": 2015
+        }
+      ],
+      "ls_count": 16,
+      "et_count": 1
+    },
+    {
+      "id": 23,
+      "size": 17,
+      "top_words": [
+        "embodied",
+        "gestures",
+        "learning",
+        "movements",
+        "physical",
+        "mr",
+        "environment",
+        "physics"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11412-023-09395-z",
+          "title": "Understanding young children’s science learning through embodied communication within an MR environment",
+          "field": "LS",
+          "year": 2023
+        },
+        {
+          "doi": "10.1007/s11423-023-10254-9",
+          "title": "Multimodal analysis of interaction data from embodied education technologies",
+          "field": "ET",
+          "year": 2023
+        },
+        {
+          "doi": "10.1108/ils-10-2020-0235",
+          "title": "Elementary students learning science in an MR environment by constructing liminal blends through action on props",
+          "field": "LS",
+          "year": 2021
+        }
+      ],
+      "ls_count": 12,
+      "et_count": 5
+    },
+    {
+      "id": 24,
+      "size": 15,
+      "top_words": [
+        "argumentation",
+        "reasoning",
+        "students",
+        "argument",
+        "scientific",
+        "historical",
+        "scientific reasoning",
+        "text"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11251-018-9471-3",
+          "title": "How to improve argumentation comprehension in university students: experimental test of a training approach",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1007/s11423-025-10474-1",
+          "title": "Scientific habits of arguing minds: enhancing online argumentation to foster SHOM",
+          "field": "ET",
+          "year": 2025
+        },
+        {
+          "doi": "10.1080/10508406.2017.1336714",
+          "title": "A Dialogic Path to Evidence-Based Argumentive Writing",
+          "field": "LS",
+          "year": 2017
+        }
+      ],
+      "ls_count": 10,
+      "et_count": 5
+    },
+    {
+      "id": 25,
+      "size": 15,
+      "top_words": [
+        "instructor",
+        "voice",
+        "vas",
+        "emotions",
+        "presence",
+        "gender",
+        "agent",
+        "slides"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11423-025-10572-0",
+          "title": "Static, dynamic, or human? The role of slide dynamics and instructor cues in video lectures",
+          "field": "ET",
+          "year": 2025
+        },
+        {
+          "doi": "10.1007/s11423-024-10391-9",
+          "title": "Instructor presence in instructional videos in higher education: three field experiments in university courses",
+          "field": "ET",
+          "year": 2024
+        },
+        {
+          "doi": "10.1007/s11423-021-10057-w",
+          "title": "The positivity principle: do positive instructors improve learning from video lectures?",
+          "field": "ET",
+          "year": 2021
+        }
+      ],
+      "ls_count": 5,
+      "et_count": 10
+    },
+    {
+      "id": 26,
+      "size": 14,
+      "top_words": [
+        "disabilities",
+        "learning community",
+        "special issue",
+        "social justice",
+        "instructional",
+        "belonging",
+        "special",
+        "learning"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.51869/121/tbac1",
+          "title": "Introduction to the Special Issue",
+          "field": "ET",
+          "year": 2023
+        },
+        {
+          "doi": "10.51869/121/bl",
+          "title": "Trauma-Informed Learning Community (TLC) for Educational Professionals",
+          "field": "ET",
+          "year": 2023
+        },
+        {
+          "doi": "10.1007/s11528-024-00952-3",
+          "title": "Ready to Implement? An Exploration of K12 Faculty’s Preparedness to Create Inclusive Learning Environments",
+          "field": "ET",
+          "year": 2024
+        }
+      ],
+      "ls_count": 1,
+      "et_count": 13
+    },
+    {
+      "id": 27,
+      "size": 13,
+      "top_words": [
+        "mobile",
+        "acceptance",
+        "mobile technologies",
+        "factors",
+        "use",
+        "ls",
+        "la",
+        "tam"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-12-2018-0127",
+          "title": "Comparing factors that influence learning management systems use on computers and on mobile",
+          "field": "LS",
+          "year": 2019
+        },
+        {
+          "doi": "10.1007/s11423-025-10514-w",
+          "title": "Determining mobile learning acceptance outside the classroom: an integrated acceptance model",
+          "field": "ET",
+          "year": 2025
+        },
+        {
+          "doi": "10.1007/s11528-019-00414-1",
+          "title": "The iPAC Scale: A Survey to Measure Distinctive Mobile Pedagogies",
+          "field": "ET",
+          "year": 2019
+        }
+      ],
+      "ls_count": 5,
+      "et_count": 8
+    },
+    {
+      "id": 28,
+      "size": 12,
+      "top_words": [
+        "discussion",
+        "discourse",
+        "online",
+        "knowledge building",
+        "knowledge",
+        "openness",
+        "building",
+        "interaction"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-04-2020-0081",
+          "title": "Designing for and facilitating knowledge-building discourse in online courses",
+          "field": "LS",
+          "year": 2020
+        },
+        {
+          "doi": "10.1108/ils-04-2020-0120",
+          "title": "Characteristics of asynchronous online discussions in a graduate course: an exploratory study",
+          "field": "LS",
+          "year": 2020
+        },
+        {
+          "doi": "10.1007/s11412-016-9245-3",
+          "title": "Toward a classification of discourse patterns in asynchronous online discussions",
+          "field": "LS",
+          "year": 2016
+        }
+      ],
+      "ls_count": 8,
+      "et_count": 4
+    },
+    {
+      "id": 29,
+      "size": 11,
+      "top_words": [
+        "mathematics",
+        "concepts",
+        "mathematical",
+        "teacher",
+        "adaptable",
+        "worked",
+        "instructional quality",
+        "heuristic worked"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-07-2019-0075",
+          "title": "Exploring how teachers support students’ mathematical learning in computer-directed learning environments",
+          "field": "LS",
+          "year": 2019
+        },
+        {
+          "doi": "10.1080/10508406.2018.1441030",
+          "title": "Preparing Elementary School Teachers to Learn From Teaching: A Comparison of Two Approaches to Mathematics Methods Instruction",
+          "field": "LS",
+          "year": 2018
+        },
+        {
+          "doi": "10.1007/s11528-024-00955-0",
+          "title": "ALEKS in High School Mathematics Classrooms: Exploring Teachers’ Perceptions and Use of this Tool",
+          "field": "ET",
+          "year": 2024
+        }
+      ],
+      "ls_count": 9,
+      "et_count": 2
+    },
+    {
+      "id": 30,
+      "size": 11,
+      "top_words": [
+        "ict",
+        "digital",
+        "teachers",
+        "teaching",
+        "teaching learning",
+        "digital competencies",
+        "competencies",
+        "competence"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11423-020-09767-4",
+          "title": "From digital literacy to digital competence: the teacher digital competency (TDC) framework",
+          "field": "ET",
+          "year": 2020
+        },
+        {
+          "doi": "10.1007/s11423-023-10193-5",
+          "title": "The HeDiCom framework: Higher Education teachers’ digital competencies for the future",
+          "field": "ET",
+          "year": 2023
+        },
+        {
+          "doi": "10.1007/s11423-022-10166-0",
+          "title": "Teachers’ role in digitalizing education: an umbrella review",
+          "field": "ET",
+          "year": 2022
+        }
+      ],
+      "ls_count": 1,
+      "et_count": 10
+    },
+    {
+      "id": 31,
+      "size": 11,
+      "top_words": [
+        "oer",
+        "open educational",
+        "educational resources",
+        "open",
+        "educational",
+        "resources",
+        "reading",
+        "books"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1007/s11423-020-09840-y",
+          "title": "Open educational resources: expanding equity or reflecting and furthering inequities?",
+          "field": "ET",
+          "year": 2020
+        },
+        {
+          "doi": "10.1007/s11423-019-09700-4",
+          "title": "Open educational resources, student efficacy, and user perceptions: a synthesis of research published between 2015 and 2018",
+          "field": "ET",
+          "year": 2019
+        },
+        {
+          "doi": "10.14434/ijdl.v15i3.36275",
+          "title": "Platform Development as an Iterative Process: An OER Design Case of EdTech Books",
+          "field": "ET",
+          "year": 2024
+        }
+      ],
+      "ls_count": 1,
+      "et_count": 10
+    },
+    {
+      "id": 32,
+      "size": 10,
+      "top_words": [
+        "media",
+        "information",
+        "civic",
+        "news",
+        "credibility",
+        "social media",
+        "digital",
+        "comments"
+      ],
+      "exemplars": [
+        {
+          "doi": "10.1108/ils-03-2022-0030",
+          "title": "Think before you share: building a civic media literacy framework for everyday contexts",
+          "field": "LS",
+          "year": 2022
+        },
+        {
+          "doi": "10.1108/ils-01-2020-0013",
+          "title": "Digital civic learning in schools: Youth perspectives and experiences",
+          "field": "LS",
+          "year": 2021
+        },
+        {
+          "doi": "10.1108/ils-08-2021-0072",
+          "title": "Examining instructional practices in news media literacy: shifts in instruction and co-construction",
+          "field": "LS",
+          "year": 2022
+        }
+      ],
+      "ls_count": 9,
+      "et_count": 1
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "journals": [
+    {
+      "id": "jls",
+      "name": "Journal of the Learning Sciences",
+      "field": "LS",
+      "issns": [
+        "1050-8406",
+        "1532-7809"
+      ],
+      "count": 201
+    },
+    {
+      "id": "isci",
+      "name": "Instructional Science",
+      "field": "LS",
+      "issns": [
+        "0020-4277",
+        "1573-1952"
+      ],
+      "count": 148
+    },
+    {
+      "id": "ijcscl",
+      "name": "IJCSCL",
+      "field": "LS",
+      "issns": [
+        "1556-1607",
+        "1556-1615"
+      ],
+      "count": 75
+    },
+    {
+      "id": "ils",
+      "name": "Information and Learning Sciences",
+      "field": "LS",
+      "issns": [
+        "2398-5348",
+        "2398-5356"
+      ],
+      "count": 383
+    },
+    {
+      "id": "etrd",
+      "name": "ETR&D",
+      "field": "ET",
+      "issns": [
+        "1042-1629",
+        "1556-6501"
+      ],
+      "count": 219
+    },
+    {
+      "id": "tt",
+      "name": "TechTrends",
+      "field": "ET",
+      "issns": [
+        "8756-3894",
+        "1559-7075"
+      ],
+      "count": 111
+    },
+    {
+      "id": "ijdl",
+      "name": "IJDL",
+      "field": "ET",
+      "issns": [
+        "2159-449X"
+      ],
+      "count": 278
+    },
+    {
+      "id": "jaid",
+      "name": "Journal of Applied Instructional Design",
+      "field": "ET",
+      "issns": [
+        "2160-5289"
+      ],
+      "count": 110
+    },
+    {
+      "id": "jfdl",
+      "name": "Journal of Formative Design in Learning",
+      "field": "ET",
+      "issns": [
+        "2509-8039",
+        "2509-8047"
+      ],
+      "count": 20
+    }
+  ],
+  "totals": {
+    "ls": 807,
+    "et": 738,
+    "all": 1545
+  }
+}

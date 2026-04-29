@@ -1,0 +1,2573 @@
+{
+  "field": "ET",
+  "nodes": [
+    {
+      "id": "3d printing",
+      "freq": 3
+    },
+    {
+      "id": "ai literacy",
+      "freq": 8
+    },
+    {
+      "id": "ai teaching",
+      "freq": 22
+    },
+    {
+      "id": "assessment design",
+      "freq": 16
+    },
+    {
+      "id": "augmented reality",
+      "freq": 7
+    },
+    {
+      "id": "blended learning",
+      "freq": 6
+    },
+    {
+      "id": "chatgpt used",
+      "freq": 5
+    },
+    {
+      "id": "child designed",
+      "freq": 3
+    },
+    {
+      "id": "collaborative argumentation",
+      "freq": 4
+    },
+    {
+      "id": "collaborative design",
+      "freq": 3
+    },
+    {
+      "id": "collaborative learning",
+      "freq": 4
+    },
+    {
+      "id": "competencies online",
+      "freq": 3
+    },
+    {
+      "id": "competency self",
+      "freq": 4
+    },
+    {
+      "id": "computational",
+      "freq": 5
+    },
+    {
+      "id": "computational thinking",
+      "freq": 16
+    },
+    {
+      "id": "course development",
+      "freq": 3
+    },
+    {
+      "id": "course redesign",
+      "freq": 3
+    },
+    {
+      "id": "creativity",
+      "freq": 4
+    },
+    {
+      "id": "culturally responsive",
+      "freq": 3
+    },
+    {
+      "id": "curricular",
+      "freq": 7
+    },
+    {
+      "id": "curriculum design",
+      "freq": 9
+    },
+    {
+      "id": "cybersecurity education",
+      "freq": 3
+    },
+    {
+      "id": "dashboard",
+      "freq": 3
+    },
+    {
+      "id": "data literacy",
+      "freq": 5
+    },
+    {
+      "id": "design case",
+      "freq": 3
+    },
+    {
+      "id": "design knowledge",
+      "freq": 3
+    },
+    {
+      "id": "design mobile",
+      "freq": 3
+    },
+    {
+      "id": "design narrative",
+      "freq": 12
+    },
+    {
+      "id": "design online",
+      "freq": 5
+    },
+    {
+      "id": "design team",
+      "freq": 9
+    },
+    {
+      "id": "design thinking",
+      "freq": 7
+    },
+    {
+      "id": "designers involved",
+      "freq": 3
+    },
+    {
+      "id": "develop digital",
+      "freq": 3
+    },
+    {
+      "id": "digital",
+      "freq": 4
+    },
+    {
+      "id": "digital competence",
+      "freq": 5
+    },
+    {
+      "id": "digital literacy",
+      "freq": 7
+    },
+    {
+      "id": "discuss instructors",
+      "freq": 3
+    },
+    {
+      "id": "ebooks",
+      "freq": 3
+    },
+    {
+      "id": "educational game",
+      "freq": 14
+    },
+    {
+      "id": "educational resources",
+      "freq": 3
+    },
+    {
+      "id": "educational technology",
+      "freq": 20
+    },
+    {
+      "id": "educational tool",
+      "freq": 3
+    },
+    {
+      "id": "educators",
+      "freq": 3
+    },
+    {
+      "id": "elucidate competencies",
+      "freq": 4
+    },
+    {
+      "id": "emotional learning",
+      "freq": 4
+    },
+    {
+      "id": "engineering taught",
+      "freq": 6
+    },
+    {
+      "id": "ethical",
+      "freq": 3
+    },
+    {
+      "id": "examine reflective",
+      "freq": 3
+    },
+    {
+      "id": "experience design",
+      "freq": 3
+    },
+    {
+      "id": "faculty perceive",
+      "freq": 3
+    },
+    {
+      "id": "flipped classroom",
+      "freq": 5
+    },
+    {
+      "id": "formative assessment",
+      "freq": 5
+    },
+    {
+      "id": "game design",
+      "freq": 13
+    },
+    {
+      "id": "gamification",
+      "freq": 15
+    },
+    {
+      "id": "gestures",
+      "freq": 3
+    },
+    {
+      "id": "global learners",
+      "freq": 3
+    },
+    {
+      "id": "immersive learning",
+      "freq": 4
+    },
+    {
+      "id": "immersive virtual",
+      "freq": 3
+    },
+    {
+      "id": "implementing learner",
+      "freq": 3
+    },
+    {
+      "id": "inclusive learning",
+      "freq": 9
+    },
+    {
+      "id": "informal learning",
+      "freq": 12
+    },
+    {
+      "id": "inquiry science",
+      "freq": 3
+    },
+    {
+      "id": "instructional design",
+      "freq": 225
+    },
+    {
+      "id": "instructor presence",
+      "freq": 4
+    },
+    {
+      "id": "interprofessional education",
+      "freq": 3
+    },
+    {
+      "id": "laboratory course",
+      "freq": 5
+    },
+    {
+      "id": "language skills",
+      "freq": 3
+    },
+    {
+      "id": "learner interactions",
+      "freq": 5
+    },
+    {
+      "id": "learners cognitive",
+      "freq": 4
+    },
+    {
+      "id": "learners engage",
+      "freq": 4
+    },
+    {
+      "id": "learning analytics",
+      "freq": 7
+    },
+    {
+      "id": "learning cultural",
+      "freq": 3
+    },
+    {
+      "id": "learning experience",
+      "freq": 5
+    },
+    {
+      "id": "learning management",
+      "freq": 6
+    },
+    {
+      "id": "learning outcomes",
+      "freq": 3
+    },
+    {
+      "id": "learning projects",
+      "freq": 3
+    },
+    {
+      "id": "literacy",
+      "freq": 10
+    },
+    {
+      "id": "maker education",
+      "freq": 4
+    },
+    {
+      "id": "makerspace design",
+      "freq": 13
+    },
+    {
+      "id": "mathematics education",
+      "freq": 5
+    },
+    {
+      "id": "mentoring",
+      "freq": 5
+    },
+    {
+      "id": "metacognition",
+      "freq": 5
+    },
+    {
+      "id": "mobile learning",
+      "freq": 4
+    },
+    {
+      "id": "multimedia learning",
+      "freq": 19
+    },
+    {
+      "id": "museum design",
+      "freq": 3
+    },
+    {
+      "id": "oer research",
+      "freq": 3
+    },
+    {
+      "id": "oer student",
+      "freq": 3
+    },
+    {
+      "id": "online instruction",
+      "freq": 3
+    },
+    {
+      "id": "online learning",
+      "freq": 55
+    },
+    {
+      "id": "online orientation",
+      "freq": 3
+    },
+    {
+      "id": "online social",
+      "freq": 3
+    },
+    {
+      "id": "open educational",
+      "freq": 12
+    },
+    {
+      "id": "pandemic",
+      "freq": 4
+    },
+    {
+      "id": "preschool math",
+      "freq": 3
+    },
+    {
+      "id": "professional development",
+      "freq": 5
+    },
+    {
+      "id": "professional learning",
+      "freq": 3
+    },
+    {
+      "id": "programming",
+      "freq": 10
+    },
+    {
+      "id": "project students",
+      "freq": 3
+    },
+    {
+      "id": "regulated learning",
+      "freq": 10
+    },
+    {
+      "id": "remote teaching",
+      "freq": 6
+    },
+    {
+      "id": "role play",
+      "freq": 3
+    },
+    {
+      "id": "science curriculum",
+      "freq": 12
+    },
+    {
+      "id": "skills oral",
+      "freq": 3
+    },
+    {
+      "id": "skills research",
+      "freq": 5
+    },
+    {
+      "id": "social justice",
+      "freq": 3
+    },
+    {
+      "id": "stem learning",
+      "freq": 6
+    },
+    {
+      "id": "student efficacy",
+      "freq": 3
+    },
+    {
+      "id": "student engagement",
+      "freq": 9
+    },
+    {
+      "id": "student motivation",
+      "freq": 13
+    },
+    {
+      "id": "student writing",
+      "freq": 3
+    },
+    {
+      "id": "students computational",
+      "freq": 6
+    },
+    {
+      "id": "students experiences",
+      "freq": 6
+    },
+    {
+      "id": "students feedback",
+      "freq": 6
+    },
+    {
+      "id": "students redesign",
+      "freq": 3
+    },
+    {
+      "id": "students research",
+      "freq": 4
+    },
+    {
+      "id": "support teaching",
+      "freq": 5
+    },
+    {
+      "id": "teacher dashboard",
+      "freq": 3
+    },
+    {
+      "id": "teacher digital",
+      "freq": 14
+    },
+    {
+      "id": "teacher genai",
+      "freq": 3
+    },
+    {
+      "id": "teacher professional",
+      "freq": 6
+    },
+    {
+      "id": "teachers experienced",
+      "freq": 3
+    },
+    {
+      "id": "teachers knowledge",
+      "freq": 4
+    },
+    {
+      "id": "teaching covid",
+      "freq": 4
+    },
+    {
+      "id": "teaching presence",
+      "freq": 3
+    },
+    {
+      "id": "technology acceptance",
+      "freq": 3
+    },
+    {
+      "id": "term blended",
+      "freq": 3
+    },
+    {
+      "id": "trauma",
+      "freq": 4
+    },
+    {
+      "id": "trauma informed",
+      "freq": 5
+    },
+    {
+      "id": "tutoring",
+      "freq": 6
+    },
+    {
+      "id": "use embodied",
+      "freq": 4
+    },
+    {
+      "id": "using chatbot",
+      "freq": 4
+    },
+    {
+      "id": "vr learning",
+      "freq": 20
+    }
+  ],
+  "links": [
+    {
+      "source": "ai teaching",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.1434,
+      "weight": 0.1434
+    },
+    {
+      "source": "course redesign",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "course redesign",
+      "target": "students redesign",
+      "cooc": 2,
+      "npmi": 0.8628,
+      "weight": 0.8628
+    },
+    {
+      "source": "instructional design",
+      "target": "students redesign",
+      "cooc": 3,
+      "npmi": 0.2156,
+      "weight": 0.2156
+    },
+    {
+      "source": "experience design",
+      "target": "instructional design",
+      "cooc": 3,
+      "npmi": 0.2156,
+      "weight": 0.2156
+    },
+    {
+      "source": "experience design",
+      "target": "learning experience",
+      "cooc": 2,
+      "npmi": 0.7763,
+      "weight": 0.7763
+    },
+    {
+      "source": "instructional design",
+      "target": "learning experience",
+      "cooc": 4,
+      "npmi": 0.1847,
+      "weight": 0.1847
+    },
+    {
+      "source": "computational thinking",
+      "target": "students computational",
+      "cooc": 6,
+      "npmi": 0.7961,
+      "weight": 0.7961
+    },
+    {
+      "source": "instructor presence",
+      "target": "teaching presence",
+      "cooc": 2,
+      "npmi": 0.8141,
+      "weight": 0.8141
+    },
+    {
+      "source": "online learning",
+      "target": "regulated learning",
+      "cooc": 2,
+      "npmi": 0.1668,
+      "weight": 0.1668
+    },
+    {
+      "source": "computational",
+      "target": "computational thinking",
+      "cooc": 5,
+      "npmi": 0.7671,
+      "weight": 0.7671
+    },
+    {
+      "source": "computational",
+      "target": "programming",
+      "cooc": 1,
+      "npmi": 0.4075,
+      "weight": 0.4075
+    },
+    {
+      "source": "computational",
+      "target": "teaching covid",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "computational thinking",
+      "target": "programming",
+      "cooc": 2,
+      "npmi": 0.3758,
+      "weight": 0.3758
+    },
+    {
+      "source": "computational thinking",
+      "target": "teaching covid",
+      "cooc": 1,
+      "npmi": 0.3701,
+      "weight": 0.3701
+    },
+    {
+      "source": "programming",
+      "target": "teaching covid",
+      "cooc": 1,
+      "npmi": 0.4413,
+      "weight": 0.4413
+    },
+    {
+      "source": "language skills",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "language skills",
+      "target": "regulated learning",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "professional development",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.3565,
+      "weight": 0.3565
+    },
+    {
+      "source": "professional development",
+      "target": "teacher professional",
+      "cooc": 2,
+      "npmi": 0.659,
+      "weight": 0.659
+    },
+    {
+      "source": "teacher digital",
+      "target": "teacher professional",
+      "cooc": 1,
+      "npmi": 0.3289,
+      "weight": 0.3289
+    },
+    {
+      "source": "instructor presence",
+      "target": "multimedia learning",
+      "cooc": 1,
+      "npmi": 0.3441,
+      "weight": 0.3441
+    },
+    {
+      "source": "instructor presence",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.1831,
+      "weight": 0.1831
+    },
+    {
+      "source": "immersive learning",
+      "target": "immersive virtual",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "develop digital",
+      "target": "digital",
+      "cooc": 2,
+      "npmi": 0.8141,
+      "weight": 0.8141
+    },
+    {
+      "source": "online learning",
+      "target": "students experiences",
+      "cooc": 2,
+      "npmi": 0.2533,
+      "weight": 0.2533
+    },
+    {
+      "source": "immersive virtual",
+      "target": "vr learning",
+      "cooc": 2,
+      "npmi": 0.5417,
+      "weight": 0.5417
+    },
+    {
+      "source": "learning cultural",
+      "target": "online learning",
+      "cooc": 2,
+      "npmi": 0.3706,
+      "weight": 0.3706
+    },
+    {
+      "source": "emotional learning",
+      "target": "faculty perceive",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "emotional learning",
+      "target": "inclusive learning",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "faculty perceive",
+      "target": "inclusive learning",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "students experiences",
+      "target": "students feedback",
+      "cooc": 2,
+      "npmi": 0.6282,
+      "weight": 0.6282
+    },
+    {
+      "source": "assessment design",
+      "target": "mathematics education",
+      "cooc": 1,
+      "npmi": 0.3363,
+      "weight": 0.3363
+    },
+    {
+      "source": "instructional design",
+      "target": "mathematics education",
+      "cooc": 3,
+      "npmi": 0.1228,
+      "weight": 0.1228
+    },
+    {
+      "source": "educational technology",
+      "target": "literacy",
+      "cooc": 2,
+      "npmi": 0.338,
+      "weight": 0.338
+    },
+    {
+      "source": "educational technology",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.1699,
+      "weight": 0.1699
+    },
+    {
+      "source": "literacy",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.2749,
+      "weight": 0.2749
+    },
+    {
+      "source": "global learners",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "mentoring",
+      "target": "trauma",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "mentoring",
+      "target": "trauma informed",
+      "cooc": 1,
+      "npmi": 0.5125,
+      "weight": 0.5125
+    },
+    {
+      "source": "trauma",
+      "target": "trauma informed",
+      "cooc": 4,
+      "npmi": 0.9572,
+      "weight": 0.9572
+    },
+    {
+      "source": "inclusive learning",
+      "target": "instructional design",
+      "cooc": 5,
+      "npmi": 0.1199,
+      "weight": 0.1199
+    },
+    {
+      "source": "inclusive learning",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.2675,
+      "weight": 0.2675
+    },
+    {
+      "source": "course redesign",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "online learning",
+      "target": "students redesign",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "curriculum design",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.2135,
+      "weight": 0.2135
+    },
+    {
+      "source": "assessment design",
+      "target": "design thinking",
+      "cooc": 1,
+      "npmi": 0.2854,
+      "weight": 0.2854
+    },
+    {
+      "source": "culturally responsive",
+      "target": "curriculum design",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "design team",
+      "target": "instructional design",
+      "cooc": 6,
+      "npmi": 0.1623,
+      "weight": 0.1623
+    },
+    {
+      "source": "online learning",
+      "target": "online orientation",
+      "cooc": 2,
+      "npmi": 0.3706,
+      "weight": 0.3706
+    },
+    {
+      "source": "design knowledge",
+      "target": "design team",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "design knowledge",
+      "target": "using chatbot",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "design team",
+      "target": "using chatbot",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "collaborative learning",
+      "target": "design narrative",
+      "cooc": 1,
+      "npmi": 0.4137,
+      "weight": 0.4137
+    },
+    {
+      "source": "educators",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "educators",
+      "target": "maker education",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "engineering taught",
+      "target": "inclusive learning",
+      "cooc": 1,
+      "npmi": 0.3958,
+      "weight": 0.3958
+    },
+    {
+      "source": "computational thinking",
+      "target": "gamification",
+      "cooc": 1,
+      "npmi": 0.1699,
+      "weight": 0.1699
+    },
+    {
+      "source": "instructional design",
+      "target": "professional development",
+      "cooc": 4,
+      "npmi": 0.1847,
+      "weight": 0.1847
+    },
+    {
+      "source": "ethical",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "digital competence",
+      "target": "digital literacy",
+      "cooc": 2,
+      "npmi": 0.633,
+      "weight": 0.633
+    },
+    {
+      "source": "digital competence",
+      "target": "teacher digital",
+      "cooc": 5,
+      "npmi": 0.7938,
+      "weight": 0.7938
+    },
+    {
+      "source": "digital literacy",
+      "target": "teacher digital",
+      "cooc": 4,
+      "npmi": 0.6526,
+      "weight": 0.6526
+    },
+    {
+      "source": "blended learning",
+      "target": "multimedia learning",
+      "cooc": 1,
+      "npmi": 0.2827,
+      "weight": 0.2827
+    },
+    {
+      "source": "oer student",
+      "target": "open educational",
+      "cooc": 3,
+      "npmi": 0.7481,
+      "weight": 0.7481
+    },
+    {
+      "source": "oer student",
+      "target": "student efficacy",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "open educational",
+      "target": "student efficacy",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "instructional design",
+      "target": "teachers experienced",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "online learning",
+      "target": "teachers experienced",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "online learning",
+      "target": "teaching covid",
+      "cooc": 2,
+      "npmi": 0.3219,
+      "weight": 0.3219
+    },
+    {
+      "source": "teachers experienced",
+      "target": "teaching covid",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "data literacy",
+      "target": "learning analytics",
+      "cooc": 1,
+      "npmi": 0.4615,
+      "weight": 0.4615
+    },
+    {
+      "source": "digital literacy",
+      "target": "literacy",
+      "cooc": 4,
+      "npmi": 0.7171,
+      "weight": 0.7171
+    },
+    {
+      "source": "literacy",
+      "target": "teacher digital",
+      "cooc": 2,
+      "npmi": 0.3984,
+      "weight": 0.3984
+    },
+    {
+      "source": "ai teaching",
+      "target": "learner interactions",
+      "cooc": 2,
+      "npmi": 0.4392,
+      "weight": 0.4392
+    },
+    {
+      "source": "flipped classroom",
+      "target": "instructional design",
+      "cooc": 4,
+      "npmi": 0.1847,
+      "weight": 0.1847
+    },
+    {
+      "source": "flipped classroom",
+      "target": "learning analytics",
+      "cooc": 1,
+      "npmi": 0.4615,
+      "weight": 0.4615
+    },
+    {
+      "source": "instructional design",
+      "target": "learning analytics",
+      "cooc": 4,
+      "npmi": 0.1202,
+      "weight": 0.1202
+    },
+    {
+      "source": "computational thinking",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.1264,
+      "weight": 0.1264
+    },
+    {
+      "source": "oer research",
+      "target": "oer student",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "oer research",
+      "target": "open educational",
+      "cooc": 3,
+      "npmi": 0.7481,
+      "weight": 0.7481
+    },
+    {
+      "source": "digital",
+      "target": "educational technology",
+      "cooc": 1,
+      "npmi": 0.3363,
+      "weight": 0.3363
+    },
+    {
+      "source": "competency self",
+      "target": "digital competence",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "competency self",
+      "target": "elucidate competencies",
+      "cooc": 1,
+      "npmi": 0.5801,
+      "weight": 0.5801
+    },
+    {
+      "source": "competency self",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.3903,
+      "weight": 0.3903
+    },
+    {
+      "source": "digital competence",
+      "target": "elucidate competencies",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "elucidate competencies",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.3903,
+      "weight": 0.3903
+    },
+    {
+      "source": "competencies online",
+      "target": "online learning",
+      "cooc": 3,
+      "npmi": 0.4715,
+      "weight": 0.4715
+    },
+    {
+      "source": "regulated learning",
+      "target": "using chatbot",
+      "cooc": 1,
+      "npmi": 0.4413,
+      "weight": 0.4413
+    },
+    {
+      "source": "language skills",
+      "target": "role play",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "language skills",
+      "target": "skills oral",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "role play",
+      "target": "skills oral",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "metacognition",
+      "target": "regulated learning",
+      "cooc": 1,
+      "npmi": 0.4075,
+      "weight": 0.4075
+    },
+    {
+      "source": "ai teaching",
+      "target": "competency self",
+      "cooc": 1,
+      "npmi": 0.3219,
+      "weight": 0.3219
+    },
+    {
+      "source": "assessment design",
+      "target": "digital literacy",
+      "cooc": 1,
+      "npmi": 0.2854,
+      "weight": 0.2854
+    },
+    {
+      "source": "online learning",
+      "target": "teacher professional",
+      "cooc": 1,
+      "npmi": 0.1217,
+      "weight": 0.1217
+    },
+    {
+      "source": "blended learning",
+      "target": "term blended",
+      "cooc": 2,
+      "npmi": 0.7455,
+      "weight": 0.7455
+    },
+    {
+      "source": "educational resources",
+      "target": "open educational",
+      "cooc": 3,
+      "npmi": 0.7481,
+      "weight": 0.7481
+    },
+    {
+      "source": "instructional design",
+      "target": "learning outcomes",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "learning outcomes",
+      "target": "metacognition",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "blended learning",
+      "target": "professional development",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "blended learning",
+      "target": "teacher professional",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "computational",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.3678,
+      "weight": 0.3678
+    },
+    {
+      "source": "computational thinking",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.1916,
+      "weight": 0.1916
+    },
+    {
+      "source": "formative assessment",
+      "target": "skills oral",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "assessment design",
+      "target": "programming",
+      "cooc": 1,
+      "npmi": 0.2313,
+      "weight": 0.2313
+    },
+    {
+      "source": "assessment design",
+      "target": "skills research",
+      "cooc": 1,
+      "npmi": 0.3363,
+      "weight": 0.3363
+    },
+    {
+      "source": "gestures",
+      "target": "use embodied",
+      "cooc": 2,
+      "npmi": 0.8141,
+      "weight": 0.8141
+    },
+    {
+      "source": "science curriculum",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.2239,
+      "weight": 0.2239
+    },
+    {
+      "source": "online learning",
+      "target": "remote teaching",
+      "cooc": 4,
+      "npmi": 0.4198,
+      "weight": 0.4198
+    },
+    {
+      "source": "tutoring",
+      "target": "using chatbot",
+      "cooc": 1,
+      "npmi": 0.5187,
+      "weight": 0.5187
+    },
+    {
+      "source": "online learning",
+      "target": "pandemic",
+      "cooc": 1,
+      "npmi": 0.1831,
+      "weight": 0.1831
+    },
+    {
+      "source": "pandemic",
+      "target": "students experiences",
+      "cooc": 1,
+      "npmi": 0.5187,
+      "weight": 0.5187
+    },
+    {
+      "source": "assessment design",
+      "target": "formative assessment",
+      "cooc": 4,
+      "npmi": 0.6915,
+      "weight": 0.6915
+    },
+    {
+      "source": "inquiry science",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "educational game",
+      "target": "game design",
+      "cooc": 4,
+      "npmi": 0.5339,
+      "weight": 0.5339
+    },
+    {
+      "source": "student motivation",
+      "target": "students feedback",
+      "cooc": 1,
+      "npmi": 0.3402,
+      "weight": 0.3402
+    },
+    {
+      "source": "student motivation",
+      "target": "tutoring",
+      "cooc": 1,
+      "npmi": 0.3402,
+      "weight": 0.3402
+    },
+    {
+      "source": "students feedback",
+      "target": "tutoring",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "learners engage",
+      "target": "online learning",
+      "cooc": 2,
+      "npmi": 0.3219,
+      "weight": 0.3219
+    },
+    {
+      "source": "professional learning",
+      "target": "teacher professional",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "professional learning",
+      "target": "teachers experienced",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "teacher professional",
+      "target": "teachers experienced",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "design narrative",
+      "target": "skills research",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "regulated learning",
+      "target": "skills research",
+      "cooc": 1,
+      "npmi": 0.4075,
+      "weight": 0.4075
+    },
+    {
+      "source": "oer research",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.4339,
+      "weight": 0.4339
+    },
+    {
+      "source": "open educational",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.2239,
+      "weight": 0.2239
+    },
+    {
+      "source": "learner interactions",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.1493,
+      "weight": 0.1493
+    },
+    {
+      "source": "educational game",
+      "target": "role play",
+      "cooc": 1,
+      "npmi": 0.4339,
+      "weight": 0.4339
+    },
+    {
+      "source": "maker education",
+      "target": "makerspace design",
+      "cooc": 1,
+      "npmi": 0.4016,
+      "weight": 0.4016
+    },
+    {
+      "source": "mobile learning",
+      "target": "technology acceptance",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "instructional design",
+      "target": "learning management",
+      "cooc": 4,
+      "npmi": 0.1497,
+      "weight": 0.1497
+    },
+    {
+      "source": "learning analytics",
+      "target": "learning management",
+      "cooc": 1,
+      "npmi": 0.4339,
+      "weight": 0.4339
+    },
+    {
+      "source": "learning analytics",
+      "target": "regulated learning",
+      "cooc": 2,
+      "npmi": 0.5157,
+      "weight": 0.5157
+    },
+    {
+      "source": "learning management",
+      "target": "regulated learning",
+      "cooc": 2,
+      "npmi": 0.5417,
+      "weight": 0.5417
+    },
+    {
+      "source": "digital",
+      "target": "digital literacy",
+      "cooc": 1,
+      "npmi": 0.4953,
+      "weight": 0.4953
+    },
+    {
+      "source": "digital",
+      "target": "literacy",
+      "cooc": 1,
+      "npmi": 0.4413,
+      "weight": 0.4413
+    },
+    {
+      "source": "computational thinking",
+      "target": "design mobile",
+      "cooc": 1,
+      "npmi": 0.4137,
+      "weight": 0.4137
+    },
+    {
+      "source": "computational thinking",
+      "target": "mathematics education",
+      "cooc": 1,
+      "npmi": 0.3363,
+      "weight": 0.3363
+    },
+    {
+      "source": "design mobile",
+      "target": "mathematics education",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "multimedia learning",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.1003,
+      "weight": 0.1003
+    },
+    {
+      "source": "dashboard",
+      "target": "learning analytics",
+      "cooc": 1,
+      "npmi": 0.5389,
+      "weight": 0.5389
+    },
+    {
+      "source": "blended learning",
+      "target": "students experiences",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "ai literacy",
+      "target": "ai teaching",
+      "cooc": 4,
+      "npmi": 0.5403,
+      "weight": 0.5403
+    },
+    {
+      "source": "ai literacy",
+      "target": "teacher genai",
+      "cooc": 2,
+      "npmi": 0.6968,
+      "weight": 0.6968
+    },
+    {
+      "source": "online instruction",
+      "target": "online learning",
+      "cooc": 3,
+      "npmi": 0.4715,
+      "weight": 0.4715
+    },
+    {
+      "source": "collaborative design",
+      "target": "design team",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "collaborative design",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "3d printing",
+      "target": "technology acceptance",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "programming",
+      "target": "skills research",
+      "cooc": 1,
+      "npmi": 0.4075,
+      "weight": 0.4075
+    },
+    {
+      "source": "ai teaching",
+      "target": "informal learning",
+      "cooc": 1,
+      "npmi": 0.1555,
+      "weight": 0.1555
+    },
+    {
+      "source": "educational technology",
+      "target": "learning projects",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "mathematics education",
+      "target": "remote teaching",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "mathematics education",
+      "target": "teachers experienced",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "remote teaching",
+      "target": "teachers experienced",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "data literacy",
+      "target": "digital competence",
+      "cooc": 1,
+      "npmi": 0.5125,
+      "weight": 0.5125
+    },
+    {
+      "source": "data literacy",
+      "target": "digital literacy",
+      "cooc": 1,
+      "npmi": 0.4615,
+      "weight": 0.4615
+    },
+    {
+      "source": "data literacy",
+      "target": "teacher digital",
+      "cooc": 1,
+      "npmi": 0.3565,
+      "weight": 0.3565
+    },
+    {
+      "source": "educational technology",
+      "target": "student efficacy",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "online learning",
+      "target": "student engagement",
+      "cooc": 2,
+      "npmi": 0.1846,
+      "weight": 0.1846
+    },
+    {
+      "source": "assessment design",
+      "target": "chatgpt used",
+      "cooc": 1,
+      "npmi": 0.3363,
+      "weight": 0.3363
+    },
+    {
+      "source": "dashboard",
+      "target": "teacher dashboard",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "competency self",
+      "target": "designers involved",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "designers involved",
+      "target": "instructional design",
+      "cooc": 3,
+      "npmi": 0.2156,
+      "weight": 0.2156
+    },
+    {
+      "source": "teaching presence",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "student engagement",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.2787,
+      "weight": 0.2787
+    },
+    {
+      "source": "computational thinking",
+      "target": "professional development",
+      "cooc": 1,
+      "npmi": 0.3363,
+      "weight": 0.3363
+    },
+    {
+      "source": "professional development",
+      "target": "students computational",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "augmented reality",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.2516,
+      "weight": 0.2516
+    },
+    {
+      "source": "digital literacy",
+      "target": "teacher professional",
+      "cooc": 1,
+      "npmi": 0.4339,
+      "weight": 0.4339
+    },
+    {
+      "source": "literacy",
+      "target": "teacher professional",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "educational technology",
+      "target": "learning management",
+      "cooc": 1,
+      "npmi": 0.2749,
+      "weight": 0.2749
+    },
+    {
+      "source": "design narrative",
+      "target": "ethical",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "design narrative",
+      "target": "game design",
+      "cooc": 1,
+      "npmi": 0.2352,
+      "weight": 0.2352
+    },
+    {
+      "source": "ethical",
+      "target": "game design",
+      "cooc": 1,
+      "npmi": 0.4451,
+      "weight": 0.4451
+    },
+    {
+      "source": "design case",
+      "target": "design knowledge",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "design case",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "design knowledge",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "educational technology",
+      "target": "makerspace design",
+      "cooc": 2,
+      "npmi": 0.2936,
+      "weight": 0.2936
+    },
+    {
+      "source": "culturally responsive",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "informal learning",
+      "target": "makerspace design",
+      "cooc": 1,
+      "npmi": 0.2352,
+      "weight": 0.2352
+    },
+    {
+      "source": "educational technology",
+      "target": "laboratory course",
+      "cooc": 1,
+      "npmi": 0.3025,
+      "weight": 0.3025
+    },
+    {
+      "source": "inquiry science",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "science curriculum",
+      "target": "stem learning",
+      "cooc": 1,
+      "npmi": 0.3523,
+      "weight": 0.3523
+    },
+    {
+      "source": "science curriculum",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.2352,
+      "weight": 0.2352
+    },
+    {
+      "source": "stem learning",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.3402,
+      "weight": 0.3402
+    },
+    {
+      "source": "curriculum design",
+      "target": "preschool math",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "science curriculum",
+      "target": "teachers knowledge",
+      "cooc": 1,
+      "npmi": 0.4137,
+      "weight": 0.4137
+    },
+    {
+      "source": "educators",
+      "target": "project students",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "instructional design",
+      "target": "project students",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "curricular",
+      "target": "stem learning",
+      "cooc": 1,
+      "npmi": 0.4339,
+      "weight": 0.4339
+    },
+    {
+      "source": "computational thinking",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.2037,
+      "weight": 0.2037
+    },
+    {
+      "source": "computational thinking",
+      "target": "students research",
+      "cooc": 1,
+      "npmi": 0.3701,
+      "weight": 0.3701
+    },
+    {
+      "source": "programming",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.2749,
+      "weight": 0.2749
+    },
+    {
+      "source": "programming",
+      "target": "students computational",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "programming",
+      "target": "students research",
+      "cooc": 1,
+      "npmi": 0.4413,
+      "weight": 0.4413
+    },
+    {
+      "source": "science curriculum",
+      "target": "students computational",
+      "cooc": 1,
+      "npmi": 0.3523,
+      "weight": 0.3523
+    },
+    {
+      "source": "science curriculum",
+      "target": "students research",
+      "cooc": 1,
+      "npmi": 0.4137,
+      "weight": 0.4137
+    },
+    {
+      "source": "students computational",
+      "target": "students research",
+      "cooc": 1,
+      "npmi": 0.5187,
+      "weight": 0.5187
+    },
+    {
+      "source": "informal learning",
+      "target": "term blended",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "discuss instructors",
+      "target": "laboratory course",
+      "cooc": 2,
+      "npmi": 0.7763,
+      "weight": 0.7763
+    },
+    {
+      "source": "design thinking",
+      "target": "instructional design",
+      "cooc": 5,
+      "npmi": 0.1702,
+      "weight": 0.1702
+    },
+    {
+      "source": "instructional design",
+      "target": "students research",
+      "cooc": 3,
+      "npmi": 0.1633,
+      "weight": 0.1633
+    },
+    {
+      "source": "skills research",
+      "target": "students research",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "educational game",
+      "target": "gamification",
+      "cooc": 1,
+      "npmi": 0.1901,
+      "weight": 0.1901
+    },
+    {
+      "source": "design team",
+      "target": "educational game",
+      "cooc": 1,
+      "npmi": 0.2675,
+      "weight": 0.2675
+    },
+    {
+      "source": "design team",
+      "target": "game design",
+      "cooc": 1,
+      "npmi": 0.2787,
+      "weight": 0.2787
+    },
+    {
+      "source": "design thinking",
+      "target": "makerspace design",
+      "cooc": 1,
+      "npmi": 0.3168,
+      "weight": 0.3168
+    },
+    {
+      "source": "3d printing",
+      "target": "makerspace design",
+      "cooc": 1,
+      "npmi": 0.4451,
+      "weight": 0.4451
+    },
+    {
+      "source": "design narrative",
+      "target": "educational game",
+      "cooc": 1,
+      "npmi": 0.2239,
+      "weight": 0.2239
+    },
+    {
+      "source": "curricular",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.3289,
+      "weight": 0.3289
+    },
+    {
+      "source": "curriculum design",
+      "target": "design thinking",
+      "cooc": 1,
+      "npmi": 0.3725,
+      "weight": 0.3725
+    },
+    {
+      "source": "collaborative design",
+      "target": "designers involved",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "design online",
+      "target": "instructional design",
+      "cooc": 4,
+      "npmi": 0.1847,
+      "weight": 0.1847
+    },
+    {
+      "source": "design online",
+      "target": "online learning",
+      "cooc": 2,
+      "npmi": 0.2841,
+      "weight": 0.2841
+    },
+    {
+      "source": "learning projects",
+      "target": "project students",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "learning projects",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.4451,
+      "weight": 0.4451
+    },
+    {
+      "source": "project students",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.4451,
+      "weight": 0.4451
+    },
+    {
+      "source": "educational game",
+      "target": "laboratory course",
+      "cooc": 1,
+      "npmi": 0.3565,
+      "weight": 0.3565
+    },
+    {
+      "source": "educational tool",
+      "target": "instructional design",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "interprofessional education",
+      "target": "multimedia learning",
+      "cooc": 1,
+      "npmi": 0.3877,
+      "weight": 0.3877
+    },
+    {
+      "source": "computational",
+      "target": "educational game",
+      "cooc": 1,
+      "npmi": 0.3565,
+      "weight": 0.3565
+    },
+    {
+      "source": "computational thinking",
+      "target": "educational game",
+      "cooc": 1,
+      "npmi": 0.1804,
+      "weight": 0.1804
+    },
+    {
+      "source": "curriculum design",
+      "target": "science curriculum",
+      "cooc": 1,
+      "npmi": 0.2909,
+      "weight": 0.2909
+    },
+    {
+      "source": "design mobile",
+      "target": "mobile learning",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "regulated learning",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.2628,
+      "weight": 0.2628
+    },
+    {
+      "source": "implementing learner",
+      "target": "learning management",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "design team",
+      "target": "educational technology",
+      "cooc": 1,
+      "npmi": 0.2135,
+      "weight": 0.2135
+    },
+    {
+      "source": "data literacy",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.1493,
+      "weight": 0.1493
+    },
+    {
+      "source": "data literacy",
+      "target": "stem learning",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "online learning",
+      "target": "stem learning",
+      "cooc": 1,
+      "npmi": 0.1217,
+      "weight": 0.1217
+    },
+    {
+      "source": "course development",
+      "target": "curriculum design",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "course development",
+      "target": "instructional design",
+      "cooc": 3,
+      "npmi": 0.2156,
+      "weight": 0.2156
+    },
+    {
+      "source": "instructional design",
+      "target": "teacher dashboard",
+      "cooc": 2,
+      "npmi": 0.1322,
+      "weight": 0.1322
+    },
+    {
+      "source": "ebooks",
+      "target": "open educational",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "experience design",
+      "target": "learners engage",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "experience design",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "instructional design",
+      "target": "learners engage",
+      "cooc": 3,
+      "npmi": 0.1633,
+      "weight": 0.1633
+    },
+    {
+      "source": "collaborative argumentation",
+      "target": "gamification",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "educational tool",
+      "target": "mathematics education",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "educational tool",
+      "target": "teacher dashboard",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "mathematics education",
+      "target": "teacher dashboard",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "curricular",
+      "target": "mentoring",
+      "cooc": 1,
+      "npmi": 0.4615,
+      "weight": 0.4615
+    },
+    {
+      "source": "flipped classroom",
+      "target": "multimedia learning",
+      "cooc": 1,
+      "npmi": 0.3103,
+      "weight": 0.3103
+    },
+    {
+      "source": "global learners",
+      "target": "learning management",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "global learners",
+      "target": "regulated learning",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "course redesign",
+      "target": "instructor presence",
+      "cooc": 1,
+      "npmi": 0.6236,
+      "weight": 0.6236
+    },
+    {
+      "source": "course redesign",
+      "target": "students feedback",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "instructor presence",
+      "target": "students feedback",
+      "cooc": 1,
+      "npmi": 0.5187,
+      "weight": 0.5187
+    },
+    {
+      "source": "child designed",
+      "target": "museum design",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "design narrative",
+      "target": "inquiry science",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "ai teaching",
+      "target": "course development",
+      "cooc": 1,
+      "npmi": 0.3655,
+      "weight": 0.3655
+    },
+    {
+      "source": "online instruction",
+      "target": "student engagement",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "faculty perceive",
+      "target": "support teaching",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "learners cognitive",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.1831,
+      "weight": 0.1831
+    },
+    {
+      "source": "discuss instructors",
+      "target": "online learning",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "designers involved",
+      "target": "informal learning",
+      "cooc": 1,
+      "npmi": 0.4573,
+      "weight": 0.4573
+    },
+    {
+      "source": "designers involved",
+      "target": "support teaching",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "informal learning",
+      "target": "support teaching",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "inclusive learning",
+      "target": "social justice",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "informal learning",
+      "target": "online social",
+      "cooc": 2,
+      "npmi": 0.6282,
+      "weight": 0.6282
+    },
+    {
+      "source": "inclusive learning",
+      "target": "informal learning",
+      "cooc": 1,
+      "npmi": 0.2909,
+      "weight": 0.2909
+    },
+    {
+      "source": "online learning",
+      "target": "support teaching",
+      "cooc": 2,
+      "npmi": 0.2841,
+      "weight": 0.2841
+    },
+    {
+      "source": "remote teaching",
+      "target": "support teaching",
+      "cooc": 2,
+      "npmi": 0.659,
+      "weight": 0.659
+    },
+    {
+      "source": "educational technology",
+      "target": "social justice",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "informal learning",
+      "target": "online learning",
+      "cooc": 2,
+      "npmi": 0.136,
+      "weight": 0.136
+    },
+    {
+      "source": "stem learning",
+      "target": "teaching covid",
+      "cooc": 1,
+      "npmi": 0.5187,
+      "weight": 0.5187
+    },
+    {
+      "source": "online instruction",
+      "target": "vr learning",
+      "cooc": 1,
+      "npmi": 0.3799,
+      "weight": 0.3799
+    },
+    {
+      "source": "learners cognitive",
+      "target": "multimedia learning",
+      "cooc": 1,
+      "npmi": 0.3441,
+      "weight": 0.3441
+    },
+    {
+      "source": "online learning",
+      "target": "professional learning",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "professional learning",
+      "target": "remote teaching",
+      "cooc": 1,
+      "npmi": 0.5622,
+      "weight": 0.5622
+    },
+    {
+      "source": "online learning",
+      "target": "online social",
+      "cooc": 1,
+      "npmi": 0.2267,
+      "weight": 0.2267
+    },
+    {
+      "source": "professional development",
+      "target": "professional learning",
+      "cooc": 1,
+      "npmi": 0.5899,
+      "weight": 0.5899
+    },
+    {
+      "source": "student engagement",
+      "target": "student writing",
+      "cooc": 1,
+      "npmi": 0.5008,
+      "weight": 0.5008
+    },
+    {
+      "source": "implementing learner",
+      "target": "multimedia learning",
+      "cooc": 1,
+      "npmi": 0.3877,
+      "weight": 0.3877
+    },
+    {
+      "source": "informal learning",
+      "target": "programming",
+      "cooc": 1,
+      "npmi": 0.2749,
+      "weight": 0.2749
+    },
+    {
+      "source": "culturally responsive",
+      "target": "learning cultural",
+      "cooc": 1,
+      "npmi": 0.6672,
+      "weight": 0.6672
+    },
+    {
+      "source": "ai teaching",
+      "target": "tutoring",
+      "cooc": 1,
+      "npmi": 0.2605,
+      "weight": 0.2605
+    },
+    {
+      "source": "learner interactions",
+      "target": "tutoring",
+      "cooc": 1,
+      "npmi": 0.4849,
+      "weight": 0.4849
+    },
+    {
+      "source": "educational technology",
+      "target": "student motivation",
+      "cooc": 1,
+      "npmi": 0.1578,
+      "weight": 0.1578
+    },
+    {
+      "source": "multimedia learning",
+      "target": "museum design",
+      "cooc": 1,
+      "npmi": 0.3877,
+      "weight": 0.3877
+    },
+    {
+      "source": "emotional learning",
+      "target": "pandemic",
+      "cooc": 1,
+      "npmi": 0.5801,
+      "weight": 0.5801
+    },
+    {
+      "source": "emotional learning",
+      "target": "trauma informed",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "pandemic",
+      "target": "trauma informed",
+      "cooc": 1,
+      "npmi": 0.5463,
+      "weight": 0.5463
+    },
+    {
+      "source": "chatgpt used",
+      "target": "mathematics education",
+      "cooc": 1,
+      "npmi": 0.5125,
+      "weight": 0.5125
+    },
+    {
+      "source": "ai teaching",
+      "target": "curricular",
+      "cooc": 1,
+      "npmi": 0.2371,
+      "weight": 0.2371
+    },
+    {
+      "source": "ai teaching",
+      "target": "engineering taught",
+      "cooc": 1,
+      "npmi": 0.2605,
+      "weight": 0.2605
+    },
+    {
+      "source": "curricular",
+      "target": "engineering taught",
+      "cooc": 1,
+      "npmi": 0.4339,
+      "weight": 0.4339
+    },
+    {
+      "source": "cybersecurity education",
+      "target": "game design",
+      "cooc": 1,
+      "npmi": 0.4451,
+      "weight": 0.4451
+    },
+    {
+      "source": "assessment design",
+      "target": "regulated learning",
+      "cooc": 1,
+      "npmi": 0.2313,
+      "weight": 0.2313
+    },
+    {
+      "source": "engineering taught",
+      "target": "learners engage",
+      "cooc": 1,
+      "npmi": 0.5187,
+      "weight": 0.5187
+    }
+  ],
+  "n_docs": 737
+}
