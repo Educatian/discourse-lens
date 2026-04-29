@@ -15,6 +15,7 @@
 
 * { box-sizing: border-box; }
 body, html, #root { margin: 0; height: 100%; }
+#root { display: flex; flex-direction: column; }
 
 header.topbar {
   display: flex; align-items: center; gap: 1.25rem;
@@ -56,7 +57,9 @@ header.topbar .dev-credit .mail::before { content: "· "; color: var(--muted); }
   header.topbar .dev-credit .mail { display: none; }
 }
 
-main { padding: 0; min-height: calc(100% - 49px - 44px); }
+/* flex-basis MUST be 0 (not auto) so children's percent heights resolve.
+ * Each view handles its own scrolling internally; main is the height anchor. */
+main { padding: 0; flex: 1 1 0; min-height: 0; overflow: hidden; }
 
 /* Filter bar */
 .filterbar {
