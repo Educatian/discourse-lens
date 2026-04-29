@@ -162,6 +162,42 @@ svg.force-graph:active { cursor: grabbing; }
   font-size: 0.9rem;
 }
 
+/* Welcome state on networks landing */
+.adjacency-welcome {
+  display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(180deg, var(--panel) 0%, #f9fafb 100%);
+}
+.welcome-card {
+  max-width: 720px; text-align: center;
+  padding: 0.6rem 1rem;
+}
+.welcome-card h3 {
+  margin: 0 0 0.5rem 0; font-size: 1rem; font-weight: 600;
+  color: var(--fg);
+}
+.welcome-lead {
+  font-size: 0.88rem; color: var(--muted); line-height: 1.5;
+  margin: 0 0 0.85rem 0;
+}
+.quick-start {
+  display: flex; flex-wrap: wrap; justify-content: center;
+  gap: 0.4rem; align-items: center;
+  font-size: 0.8rem;
+}
+.quick-start .muted {
+  color: var(--muted); font-size: 0.78rem; margin-right: 0.2rem;
+}
+.quick-chip {
+  padding: 0.3rem 0.7rem; font-size: 0.8rem;
+  border: 1px solid var(--line); border-radius: 999px;
+  background: var(--panel); color: var(--fg);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+.quick-chip:hover {
+  border-color: var(--ls); background: #eff6ff;
+}
+
 /* Timeline view */
 .timeline-view {
   padding: 0.75rem 1rem 1.5rem;

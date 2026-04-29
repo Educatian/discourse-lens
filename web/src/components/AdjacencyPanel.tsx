@@ -15,12 +15,41 @@ function fmtCount(n: number, total: number, regularize: boolean): string {
   return `${(n / total * 1000).toFixed(1)}/k`;
 }
 
+// Quick-start chips: high-frequency cross-field phrases that survive the
+// semantic-merge canonicalization. Falls back gracefully if a phrase isn't
+// present (the welcome simply omits it).
+const QUICK_START = [
+  "instructional design",
+  "online learning",
+  "computational thinking",
+  "professional development",
+  "learning analytics",
+  "regulated learning",
+  "multimedia learning",
+];
+
 export function AdjacencyPanel({ selected, index, onPick, regularize, lsTotal, etTotal }: Props) {
   if (!selected) {
+    const chips = QUICK_START.filter((k) => index[k]);
     return (
-      <div className="adjacency">
-        <div className="col empty">
-          Click a keyword in either network to see how each field surrounds it.
+      <div className="adjacency adjacency-welcome">
+        <div className="welcome-card">
+          <h3>Click any keyword in either network</h3>
+          <p className="welcome-lead">
+            Pick a term on one side and the same word lights up on the other —
+            the panel here will compare how Learning Sciences and Educational
+            Technology each surround that idea.
+          </p>
+          {chips.length > 0 && (
+            <div className="quick-start">
+              <span className="muted">try:</span>
+              {chips.map((k) => (
+                <button key={k} className="quick-chip" onClick={() => onPick(k)}>
+                  {k}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     );
