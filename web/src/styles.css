@@ -23,6 +23,8 @@ header.topbar {
   background: var(--panel);
 }
 header.topbar h1 { font-size: 1rem; margin: 0; font-weight: 600; }
+header.topbar .brand { text-decoration: none; color: inherit; }
+header.topbar .brand:hover h1 { color: var(--ls); }
 header.topbar nav a {
   color: var(--muted); text-decoration: none;
   padding: 0.25rem 0.5rem; border-radius: 4px;

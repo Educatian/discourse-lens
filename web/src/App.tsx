@@ -38,7 +38,7 @@ export default function App() {
   return (
     <>
       <header className="topbar">
-        <h1>discourse-lens</h1>
+        <a href="#/networks" className="brand"><h1>discourse-lens</h1></a>
         <nav>
           <a href="#/networks" className={route === "networks" ? "active" : ""}>networks</a>
           <a href="#/timeline" className={route === "timeline" ? "active" : ""}>timeline</a>
