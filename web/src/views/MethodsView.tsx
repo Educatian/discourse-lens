@@ -227,7 +227,7 @@ function SensitivitySection({ data }: { data: AppData }) {
           extraName="n_canonicals"
           extraLabel="canonicals"
           jaccardField="top_k_jaccard"
-          ref={sens.cosine_merge_sweep.ref}
+          refValue={sens.cosine_merge_sweep.ref}
         />
         <SweepTable
           title={`NPMI edge threshold (top-${sens.npmi_sweep.n_focus_nodes} node neighbor-set Jaccard)`}
@@ -236,7 +236,7 @@ function SensitivitySection({ data }: { data: AppData }) {
           extraName="n_links"
           extraLabel="links"
           jaccardField="neighbor_jaccard"
-          ref={sens.npmi_sweep.ref}
+          refValue={sens.npmi_sweep.ref}
         />
       </div>
     </section>
@@ -250,10 +250,10 @@ interface SweepTableProps {
   extraName: "n_canonicals" | "n_links";
   extraLabel: string;
   jaccardField: "top_k_jaccard" | "neighbor_jaccard";
-  ref: number;
+  refValue: number;   // reference parameter value to highlight; renamed from "ref" because React reserves ref
 }
 
-function SweepTable({ title, rows, keyName, extraName, extraLabel, jaccardField, ref }: SweepTableProps) {
+function SweepTable({ title, rows, keyName, extraName, extraLabel, jaccardField, refValue }: SweepTableProps) {
   const fields = ["ls", "et"] as const;
   const sweepValues = rows.ls.map((r: any) => r[keyName]);
   return (
@@ -264,7 +264,7 @@ function SweepTable({ title, rows, keyName, extraName, extraLabel, jaccardField,
           <tr>
             <th></th>
             {sweepValues.map((v: number) => (
-              <th key={v} className={Math.abs(v - ref) < 1e-9 ? "ref" : ""}>{v.toFixed(2)}{Math.abs(v - ref) < 1e-9 ? "*" : ""}</th>
+              <th key={v} className={Math.abs(v - refValue) < 1e-9 ? "ref" : ""}>{v.toFixed(2)}{Math.abs(v - refValue) < 1e-9 ? "*" : ""}</th>
             ))}
           </tr>
         </thead>
@@ -275,7 +275,7 @@ function SweepTable({ title, rows, keyName, extraName, extraLabel, jaccardField,
                 <td className="row-label">{f.toUpperCase()} Jaccard</td>
                 {rows[f].map((r: any, i: number) => {
                   const v = r[jaccardField];
-                  const isRef = Math.abs(r[keyName] - ref) < 1e-9;
+                  const isRef = Math.abs(r[keyName] - refValue) < 1e-9;
                   const cls = v >= 0.85 ? "good" : v >= 0.7 ? "ok" : "weak";
                   return (
                     <td key={i} className={`num ${cls} ${isRef ? "ref" : ""}`}>
