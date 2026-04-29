@@ -77,7 +77,22 @@ interface FieldChartProps {
 
 function FieldChart({ title, field, timeline, mode, hovered, onHover }: FieldChartProps) {
   const ref = useRef<SVGSVGElement | null>(null);
+  const [width, setWidth] = useState(0);
   const [tip, setTip] = useState<{ x: number; y: number; year: number; threadId: string; value: number; total: number; lo?: number; hi?: number } | null>(null);
+
+  // Track the SVG's actual rendered width via ResizeObserver. On first mount
+  // inside a flex container the width is briefly 0; without this the chart
+  // would draw with the fallback 520px and only fix itself on user interaction.
+  useEffect(() => {
+    const node = ref.current;
+    if (!node) return;
+    const observer = new ResizeObserver((entries) => {
+      const w = entries[0]?.contentRect.width ?? 0;
+      if (w > 0) setWidth(w);
+    });
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, []);
 
   const displayNameById = useMemo(
     () => Object.fromEntries(timeline.threads.map((t) => [t.id, t.display_name])),
@@ -113,7 +128,7 @@ function FieldChart({ title, field, timeline, mode, hovered, onHover }: FieldCha
     const node = ref.current;
     if (!node) return;
 
-    const W = node.clientWidth || 520;
+    const W = width || node.clientWidth || 520;
     const H = 320;
     const margin = { top: 28, right: 16, bottom: 36, left: 48 };
     const innerW = W - margin.left - margin.right;
@@ -208,7 +223,7 @@ function FieldChart({ title, field, timeline, mode, hovered, onHover }: FieldCha
         });
       })
       .on("mouseleave", () => setTip(null));
-  }, [stacked, hovered, mode, onHover, title]);
+  }, [stacked, hovered, mode, onHover, title, width]);
 
   return (
     <div className="field-chart">
