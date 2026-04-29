@@ -53,6 +53,12 @@ export default function App() {
               ? `data error: ${err}`
               : "loading…"}
         </span>
+        <span className="dev-credit" title="Built by Dr. Jewoong Moon — ADDIE Lab, University of Alabama">
+          built by{" "}
+          <a href="https://github.com/Educatian/discourse-lens" target="_blank" rel="noreferrer noopener">
+            Dr. Jewoong Moon
+          </a>
+        </span>
       </header>
       {data && (
         <FilterBar

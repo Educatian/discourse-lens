@@ -20,11 +20,64 @@ export function MethodsView({ data }: Props) {
         </p>
       </header>
 
+      <AboutSection />
       <BiasInferenceSection data={data} />
       <ConstructValiditySection data={data} />
       <SensitivitySection data={data} />
       <CaveatsSection data={data} />
     </div>
+  );
+}
+
+function AboutSection() {
+  return (
+    <section className="methods-section about-section">
+      <h3>About this dashboard</h3>
+      <div className="about-grid">
+        <div>
+          <p>
+            Built by <strong>Dr. Jewoong Moon</strong>, Assistant Professor of
+            Instructional Technology at the University of Alabama and director of
+            the <em>ADDIE Lab</em>. Released as a teaching artifact for graduate
+            students entering Learning Sciences or Educational Technology — a
+            small, evidence-informed alternative to inherited folklore about
+            "how the fields differ."
+          </p>
+          <p className="muted small">
+            This is not a methods paper and not novel methodologically (KeyBERT,
+            BERTopic, LLM coding are off-the-shelf). It borrows insights from
+            Hoadley, Sawyer, Reigeluth, Dede and others — and tries to render the
+            patterns those writings predict as something a curious newcomer can
+            click through in a single seminar session.
+          </p>
+        </div>
+        <div className="about-meta">
+          <div className="meta-row">
+            <span className="meta-label">Affiliation</span>
+            <span>ADDIE Lab · University of Alabama</span>
+          </div>
+          <div className="meta-row">
+            <span className="meta-label">Source</span>
+            <a href="https://github.com/Educatian/discourse-lens"
+               target="_blank" rel="noreferrer noopener">
+              github.com/Educatian/discourse-lens
+            </a>
+          </div>
+          <div className="meta-row">
+            <span className="meta-label">Contact</span>
+            <a href="mailto:jewoong.moon@gmail.com">jewoong.moon@gmail.com</a>
+          </div>
+          <div className="meta-row">
+            <span className="meta-label">Suggested citation</span>
+            <span className="cite">
+              Moon, J. (2026). <em>discourse-lens: A side-by-side discourse map
+              of Learning Sciences and Educational Technology journal abstracts</em>
+              [Web dashboard]. https://educatian.github.io/discourse-lens/
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
 
