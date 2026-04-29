@@ -25,7 +25,39 @@ export function MethodsView({ data }: Props) {
       <ConstructValiditySection data={data} />
       <SensitivitySection data={data} />
       <CaveatsSection data={data} />
+      <ContactSection />
     </div>
+  );
+}
+
+function ContactSection() {
+  return (
+    <section className="methods-section contact-section">
+      <h3>Get in touch</h3>
+      <p>
+        I welcome <strong>inquiries</strong>, <strong>revision suggestions</strong>,
+        and <strong>collaboration ideas</strong> — especially from researchers
+        who would code the threads differently than I did, or who know of
+        prior cross-field bibliometric comparisons I should be citing. If a
+        keyword that matters to your work is missing or mislabeled, please
+        flag it.
+      </p>
+      <div className="contact-grid">
+        <a className="contact-pill primary" href="mailto:jmoon19@ua.edu?subject=discourse-lens%20feedback">
+          <span className="label">Email</span>
+          <span className="value">jmoon19@ua.edu</span>
+        </a>
+        <a className="contact-pill" href="https://github.com/Educatian/discourse-lens/issues/new"
+           target="_blank" rel="noreferrer noopener">
+          <span className="label">GitHub issue</span>
+          <span className="value">file a revision suggestion</span>
+        </a>
+        <span className="contact-pill static">
+          <span className="label">Affiliation</span>
+          <span className="value">Dr. Jewoong Moon · University of Alabama · ADDIE Lab</span>
+        </span>
+      </div>
+    </section>
   );
 }
 
@@ -65,7 +97,7 @@ function AboutSection() {
           </div>
           <div className="meta-row">
             <span className="meta-label">Contact</span>
-            <a href="mailto:jewoong.moon@gmail.com">jewoong.moon@gmail.com</a>
+            <a href="mailto:jmoon19@ua.edu">jmoon19@ua.edu</a>
           </div>
           <div className="meta-row">
             <span className="meta-label">Suggested citation</span>

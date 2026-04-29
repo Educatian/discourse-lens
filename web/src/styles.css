@@ -501,6 +501,33 @@ svg.force-graph:active { cursor: grabbing; }
 .meta-row a:hover { text-decoration: underline; }
 .meta-row .cite { font-size: 0.78rem; line-height: 1.4; color: var(--fg); }
 
+/* Contact section at bottom of methods */
+.contact-section p { font-size: 0.88rem; line-height: 1.55; margin: 0 0 0.8rem 0; }
+.contact-grid {
+  display: flex; flex-wrap: wrap; gap: 0.6rem;
+}
+.contact-pill {
+  display: inline-flex; flex-direction: column;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--line); border-radius: 6px;
+  text-decoration: none;
+  transition: border-color 0.15s, background 0.15s, transform 0.05s;
+}
+.contact-pill .label {
+  font-size: 0.7rem; color: var(--muted);
+  text-transform: uppercase; letter-spacing: 0.05em;
+  margin-bottom: 0.15rem;
+}
+.contact-pill .value { font-size: 0.85rem; color: var(--fg); font-weight: 500; }
+.contact-pill:hover { border-color: var(--ls); background: #eff6ff; }
+.contact-pill:active { transform: translateY(1px); }
+.contact-pill.primary { background: var(--ls); border-color: var(--ls); }
+.contact-pill.primary .label { color: rgba(255, 255, 255, 0.85); }
+.contact-pill.primary .value { color: white; }
+.contact-pill.primary:hover { background: #1d4ed8; }
+.contact-pill.static { cursor: default; background: var(--bg); }
+.contact-pill.static:hover { border-color: var(--line); background: var(--bg); }
+
 /* Compare view */
 .compare-view {
   padding: 0.75rem 1rem 1.5rem;
